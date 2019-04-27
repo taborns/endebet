@@ -1,0 +1,8119 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Homey v1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2019-02-28 12:45+0500\n"
+"PO-Revision-Date: 2018-02-14 00:08+0500\n"
+"Last-Translator: \n"
+"Language-Team: Favethemes <hello@favethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;_x;_ex;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:25
+msgid "Back to the homepage"
+msgstr ""
+
+#: ../author.php:126
+msgid "Contact me"
+msgstr ""
+
+#: ../author.php:161 ../localization.php:294
+#: ../template-parts/dashboard/actions.php:5
+msgid "Send Message"
+msgstr ""
+
+#: ../comments.php:25
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../content-grid.php:30
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../content-list.php:14 ../content.php:37 ../single.php:49
+msgid ", "
+msgstr ""
+
+#: ../content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>"
+msgstr ""
+
+#: ../content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:34
+msgid ""
+"It seems we cannot find what you are looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../content-page.php:6 ../single.php:65
+msgid "Pages:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:393
+#: ../framework/class-tgm-plugin-activation.php:912
+#: ../framework/class-tgm-plugin-activation.php:2618
+#: ../framework/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:394
+#: ../framework/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:395
+#: ../framework/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1019
+#: ../framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:1206
+#: ../framework/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2473
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2634
+#: ../framework/options/homey-options.php:3454
+#: ../framework/options/homey-options.php:3500 ../localization.php:27
+#: ../localization.php:424
+msgid "Type"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2639 ../localization.php:33
+#: ../localization.php:431
+msgid "Status"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2808 ../localization.php:289
+msgid "Update"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3594
+#: ../framework/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3594
+#: ../framework/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/functions/demo-importer.php:18
+#: ../framework/functions/demo-importer.php:35
+#: ../framework/functions/demo-importer.php:53
+#: ../framework/functions/demo-importer.php:71
+#: ../framework/functions/demo-importer.php:89
+#: ../framework/functions/demo-importer.php:107
+#: ../framework/functions/demo-importer.php:125
+#: ../framework/functions/demo-importer.php:143
+#: ../framework/functions/demo-importer.php:160
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: ../framework/functions/helper.php:1300
+#: ../framework/functions/helper.php:1302
+#: ../framework/metaboxes/homey-meta-boxes.php:929
+#: ../template-parts/dashboard/edit-listing/information.php:182
+#: ../template-parts/dashboard/submit-listing/information.php:196
+msgid "None"
+msgstr ""
+
+#: ../framework/functions/helper.php:1344
+msgid "placeholder"
+msgstr ""
+
+#: ../framework/functions/helper.php:1535 ../localization.php:284
+#: ../localization.php:368 ../template-parts/dashboard/actions.php:2
+msgid "Edit"
+msgstr ""
+
+#: ../framework/functions/helper.php:1536
+msgid "Reply <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ../framework/functions/helper.php:1550
+msgid "United States"
+msgstr ""
+
+#: ../framework/functions/helper.php:1551
+msgid "Canada"
+msgstr ""
+
+#: ../framework/functions/helper.php:1552
+msgid "Australia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1553
+msgid "France"
+msgstr ""
+
+#: ../framework/functions/helper.php:1554
+msgid "Germany"
+msgstr ""
+
+#: ../framework/functions/helper.php:1555
+msgid "Iceland"
+msgstr ""
+
+#: ../framework/functions/helper.php:1556
+msgid "Ireland"
+msgstr ""
+
+#: ../framework/functions/helper.php:1557
+msgid "Italy"
+msgstr ""
+
+#: ../framework/functions/helper.php:1558
+msgid "Spain"
+msgstr ""
+
+#: ../framework/functions/helper.php:1559
+msgid "Sweden"
+msgstr ""
+
+#: ../framework/functions/helper.php:1560
+msgid "Austria"
+msgstr ""
+
+#: ../framework/functions/helper.php:1561
+msgid "Belgium"
+msgstr ""
+
+#: ../framework/functions/helper.php:1562
+msgid "Finland"
+msgstr ""
+
+#: ../framework/functions/helper.php:1563
+msgid "Czech Republic"
+msgstr ""
+
+#: ../framework/functions/helper.php:1564
+msgid "Denmark"
+msgstr ""
+
+#: ../framework/functions/helper.php:1565
+msgid "Norway"
+msgstr ""
+
+#: ../framework/functions/helper.php:1566
+msgid "United Kingdom"
+msgstr ""
+
+#: ../framework/functions/helper.php:1567
+msgid "Switzerland"
+msgstr ""
+
+#: ../framework/functions/helper.php:1568
+msgid "New Zealand"
+msgstr ""
+
+#: ../framework/functions/helper.php:1569
+msgid "Russian Federation"
+msgstr ""
+
+#: ../framework/functions/helper.php:1570
+msgid "Portugal"
+msgstr ""
+
+#: ../framework/functions/helper.php:1571
+msgid "Netherlands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1572
+msgid "Isle of Man"
+msgstr ""
+
+#: ../framework/functions/helper.php:1573
+msgid "Afghanistan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1574
+msgid "Aland Islands "
+msgstr ""
+
+#: ../framework/functions/helper.php:1575
+msgid "Albania"
+msgstr ""
+
+#: ../framework/functions/helper.php:1576
+msgid "Algeria"
+msgstr ""
+
+#: ../framework/functions/helper.php:1577
+msgid "American Samoa"
+msgstr ""
+
+#: ../framework/functions/helper.php:1578
+msgid "Andorra"
+msgstr ""
+
+#: ../framework/functions/helper.php:1579
+msgid "Angola"
+msgstr ""
+
+#: ../framework/functions/helper.php:1580
+msgid "Anguilla"
+msgstr ""
+
+#: ../framework/functions/helper.php:1581
+msgid "Antarctica"
+msgstr ""
+
+#: ../framework/functions/helper.php:1582
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../framework/functions/helper.php:1583
+msgid "Argentina"
+msgstr ""
+
+#: ../framework/functions/helper.php:1584
+msgid "Armenia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1585
+msgid "Aruba"
+msgstr ""
+
+#: ../framework/functions/helper.php:1586
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1587
+msgid "Bahamas"
+msgstr ""
+
+#: ../framework/functions/helper.php:1588
+msgid "Bahrain"
+msgstr ""
+
+#: ../framework/functions/helper.php:1589
+msgid "Bangladesh"
+msgstr ""
+
+#: ../framework/functions/helper.php:1590
+msgid "Barbados"
+msgstr ""
+
+#: ../framework/functions/helper.php:1591
+msgid "Belarus"
+msgstr ""
+
+#: ../framework/functions/helper.php:1592
+msgid "Belize"
+msgstr ""
+
+#: ../framework/functions/helper.php:1593
+msgid "Benin"
+msgstr ""
+
+#: ../framework/functions/helper.php:1594
+msgid "Bermuda"
+msgstr ""
+
+#: ../framework/functions/helper.php:1595
+msgid "Bhutan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1596
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+#: ../framework/functions/helper.php:1597
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: ../framework/functions/helper.php:1598
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../framework/functions/helper.php:1599
+msgid "Botswana"
+msgstr ""
+
+#: ../framework/functions/helper.php:1600
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../framework/functions/helper.php:1601
+msgid "Brazil"
+msgstr ""
+
+#: ../framework/functions/helper.php:1602
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../framework/functions/helper.php:1603
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: ../framework/functions/helper.php:1604
+msgid "Bulgaria"
+msgstr ""
+
+#: ../framework/functions/helper.php:1605
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../framework/functions/helper.php:1606
+msgid "Burundi"
+msgstr ""
+
+#: ../framework/functions/helper.php:1607
+msgid "Cambodia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1608
+msgid "Cameroon"
+msgstr ""
+
+#: ../framework/functions/helper.php:1609
+msgid "Cape Verde"
+msgstr ""
+
+#: ../framework/functions/helper.php:1610
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1611
+msgid "Central African Republic"
+msgstr ""
+
+#: ../framework/functions/helper.php:1612
+msgid "Chad"
+msgstr ""
+
+#: ../framework/functions/helper.php:1613
+msgid "Chile"
+msgstr ""
+
+#: ../framework/functions/helper.php:1614
+msgid "China"
+msgstr ""
+
+#: ../framework/functions/helper.php:1615
+msgid "Christmas Island"
+msgstr ""
+
+#: ../framework/functions/helper.php:1616
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1617
+msgid "Colombia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1618
+msgid "Comoros"
+msgstr ""
+
+#: ../framework/functions/helper.php:1619
+msgid "Congo"
+msgstr ""
+
+#: ../framework/functions/helper.php:1620
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+#: ../framework/functions/helper.php:1621
+msgid "Cook Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1622
+msgid "Costa Rica"
+msgstr ""
+
+#: ../framework/functions/helper.php:1623
+msgid "Cote d'Ivoire"
+msgstr ""
+
+#: ../framework/functions/helper.php:1624
+msgid "Croatia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1625
+msgid "Cuba"
+msgstr ""
+
+#: ../framework/functions/helper.php:1626
+msgid "Curaçao"
+msgstr ""
+
+#: ../framework/functions/helper.php:1627
+msgid "Cyprus"
+msgstr ""
+
+#: ../framework/functions/helper.php:1628
+msgid "Djibouti"
+msgstr ""
+
+#: ../framework/functions/helper.php:1629
+msgid "Dominica"
+msgstr ""
+
+#: ../framework/functions/helper.php:1630
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../framework/functions/helper.php:1631
+msgid "Ecuador"
+msgstr ""
+
+#: ../framework/functions/helper.php:1632
+msgid "Egypt"
+msgstr ""
+
+#: ../framework/functions/helper.php:1633
+msgid "El Salvador"
+msgstr ""
+
+#: ../framework/functions/helper.php:1634
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../framework/functions/helper.php:1635
+msgid "Eritrea"
+msgstr ""
+
+#: ../framework/functions/helper.php:1636
+msgid "Estonia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1637
+msgid "Ethiopia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1638
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: ../framework/functions/helper.php:1639
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1640
+msgid "Fiji"
+msgstr ""
+
+#: ../framework/functions/helper.php:1641
+msgid "French Guiana"
+msgstr ""
+
+#: ../framework/functions/helper.php:1642
+msgid "French Polynesia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1643
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../framework/functions/helper.php:1644
+msgid "Gabon"
+msgstr ""
+
+#: ../framework/functions/helper.php:1645
+msgid "Gambia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1646
+msgid "Georgia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1647
+msgid "Ghana"
+msgstr ""
+
+#: ../framework/functions/helper.php:1648
+msgid "Gibraltar"
+msgstr ""
+
+#: ../framework/functions/helper.php:1649
+msgid "Greece"
+msgstr ""
+
+#: ../framework/functions/helper.php:1650
+msgid "Greenland"
+msgstr ""
+
+#: ../framework/functions/helper.php:1651
+msgid "Grenada"
+msgstr ""
+
+#: ../framework/functions/helper.php:1652
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../framework/functions/helper.php:1653
+msgid "Guam"
+msgstr ""
+
+#: ../framework/functions/helper.php:1654
+msgid "Guatemala"
+msgstr ""
+
+#: ../framework/functions/helper.php:1655
+msgid "Guernsey"
+msgstr ""
+
+#: ../framework/functions/helper.php:1656
+msgid "Guinea"
+msgstr ""
+
+#: ../framework/functions/helper.php:1657
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../framework/functions/helper.php:1658
+msgid "Guyana"
+msgstr ""
+
+#: ../framework/functions/helper.php:1659
+msgid "Haiti"
+msgstr ""
+
+#: ../framework/functions/helper.php:1660
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1661
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: ../framework/functions/helper.php:1662
+msgid "Honduras"
+msgstr ""
+
+#: ../framework/functions/helper.php:1663
+msgid "Hong Kong"
+msgstr ""
+
+#: ../framework/functions/helper.php:1664
+msgid "Hungary"
+msgstr ""
+
+#: ../framework/functions/helper.php:1665
+msgid "India"
+msgstr ""
+
+#: ../framework/functions/helper.php:1666
+msgid "Indonesia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1667
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: ../framework/functions/helper.php:1668
+msgid "Iraq"
+msgstr ""
+
+#: ../framework/functions/helper.php:1669
+msgid "Israel"
+msgstr ""
+
+#: ../framework/functions/helper.php:1670
+msgid "Jamaica"
+msgstr ""
+
+#: ../framework/functions/helper.php:1671
+msgid "Japan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1672
+msgid "Jersey"
+msgstr ""
+
+#: ../framework/functions/helper.php:1673
+msgid "Jordan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1674
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1675
+msgid "Kenya"
+msgstr ""
+
+#: ../framework/functions/helper.php:1676
+msgid "Kiribati"
+msgstr ""
+
+#: ../framework/functions/helper.php:1677
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: ../framework/functions/helper.php:1678
+msgid "Korea, Republic of"
+msgstr ""
+
+#: ../framework/functions/helper.php:1679
+msgid "kosovo"
+msgstr ""
+
+#: ../framework/functions/helper.php:1680
+msgid "Kuwait"
+msgstr ""
+
+#: ../framework/functions/helper.php:1681
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1682
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: ../framework/functions/helper.php:1683
+msgid "Latvia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1684
+msgid "Lebanon"
+msgstr ""
+
+#: ../framework/functions/helper.php:1685
+msgid "Lesotho"
+msgstr ""
+
+#: ../framework/functions/helper.php:1686
+msgid "Liberia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1687
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: ../framework/functions/helper.php:1688
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../framework/functions/helper.php:1689
+msgid "Lithuania"
+msgstr ""
+
+#: ../framework/functions/helper.php:1690
+msgid "Luxembourg"
+msgstr ""
+
+#: ../framework/functions/helper.php:1691
+msgid "Macao"
+msgstr ""
+
+#: ../framework/functions/helper.php:1692
+msgid "Macedonia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1693
+msgid "Madagascar"
+msgstr ""
+
+#: ../framework/functions/helper.php:1694
+msgid "Malawi"
+msgstr ""
+
+#: ../framework/functions/helper.php:1695
+msgid "Malaysia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1696
+msgid "Maldives"
+msgstr ""
+
+#: ../framework/functions/helper.php:1697
+msgid "Mali"
+msgstr ""
+
+#: ../framework/functions/helper.php:1698
+msgid "Malta"
+msgstr ""
+
+#: ../framework/functions/helper.php:1699
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1700
+msgid "Martinique"
+msgstr ""
+
+#: ../framework/functions/helper.php:1701
+msgid "Mauritania"
+msgstr ""
+
+#: ../framework/functions/helper.php:1702
+msgid "Mauritius"
+msgstr ""
+
+#: ../framework/functions/helper.php:1703
+msgid "Mayotte"
+msgstr ""
+
+#: ../framework/functions/helper.php:1704
+msgid "Mexico"
+msgstr ""
+
+#: ../framework/functions/helper.php:1705
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: ../framework/functions/helper.php:1706
+msgid "Moldova, Republic of"
+msgstr ""
+
+#: ../framework/functions/helper.php:1707
+msgid "Monaco"
+msgstr ""
+
+#: ../framework/functions/helper.php:1708
+msgid "Mongolia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1709
+msgid "Montenegro"
+msgstr ""
+
+#: ../framework/functions/helper.php:1710
+msgid "Montserrat"
+msgstr ""
+
+#: ../framework/functions/helper.php:1711
+msgid "Morocco"
+msgstr ""
+
+#: ../framework/functions/helper.php:1712
+msgid "Mozambique"
+msgstr ""
+
+#: ../framework/functions/helper.php:1713
+msgid "Myanmar"
+msgstr ""
+
+#: ../framework/functions/helper.php:1714
+msgid "Namibia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1715
+msgid "Nauru"
+msgstr ""
+
+#: ../framework/functions/helper.php:1716
+msgid "Nepal"
+msgstr ""
+
+#: ../framework/functions/helper.php:1717
+msgid "New Caledonia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1718
+msgid "Nicaragua"
+msgstr ""
+
+#: ../framework/functions/helper.php:1719
+msgid "Niger"
+msgstr ""
+
+#: ../framework/functions/helper.php:1720
+msgid "Nigeria"
+msgstr ""
+
+#: ../framework/functions/helper.php:1721
+msgid "Niue"
+msgstr ""
+
+#: ../framework/functions/helper.php:1722
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../framework/functions/helper.php:1723
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1724
+msgid "Oman"
+msgstr ""
+
+#: ../framework/functions/helper.php:1725
+msgid "Pakistan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1726
+msgid "Palau"
+msgstr ""
+
+#: ../framework/functions/helper.php:1727
+msgid "Palestinian Territory, Occupied"
+msgstr ""
+
+#: ../framework/functions/helper.php:1728
+msgid "Panama"
+msgstr ""
+
+#: ../framework/functions/helper.php:1729
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../framework/functions/helper.php:1730
+msgid "Paraguay"
+msgstr ""
+
+#: ../framework/functions/helper.php:1731
+msgid "Peru"
+msgstr ""
+
+#: ../framework/functions/helper.php:1732
+msgid "Philippines"
+msgstr ""
+
+#: ../framework/functions/helper.php:1733
+msgid "Pitcairn"
+msgstr ""
+
+#: ../framework/functions/helper.php:1734
+msgid "Poland"
+msgstr ""
+
+#: ../framework/functions/helper.php:1735
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../framework/functions/helper.php:1736
+msgid "Qatar"
+msgstr ""
+
+#: ../framework/functions/helper.php:1737
+msgid "Reunion"
+msgstr ""
+
+#: ../framework/functions/helper.php:1738
+msgid "Romania"
+msgstr ""
+
+#: ../framework/functions/helper.php:1739
+msgid "Rwanda"
+msgstr ""
+
+#: ../framework/functions/helper.php:1740
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: ../framework/functions/helper.php:1741
+msgid "Saint Helena"
+msgstr ""
+
+#: ../framework/functions/helper.php:1742
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../framework/functions/helper.php:1743
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1744
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: ../framework/functions/helper.php:1745
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: ../framework/functions/helper.php:1746
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: ../framework/functions/helper.php:1747
+msgid "Samoa"
+msgstr ""
+
+#: ../framework/functions/helper.php:1748
+msgid "San Marino"
+msgstr ""
+
+#: ../framework/functions/helper.php:1749
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: ../framework/functions/helper.php:1750
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1751
+msgid "Senegal"
+msgstr ""
+
+#: ../framework/functions/helper.php:1752
+msgid "Serbia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1753
+msgid "Seychelles"
+msgstr ""
+
+#: ../framework/functions/helper.php:1754
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../framework/functions/helper.php:1755
+msgid "Singapore"
+msgstr ""
+
+#: ../framework/functions/helper.php:1756
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#: ../framework/functions/helper.php:1757
+msgid "Slovakia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1758
+msgid "Slovenia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1759
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1760
+msgid "Somalia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1761
+msgid "South Africa"
+msgstr ""
+
+#: ../framework/functions/helper.php:1762
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1763
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../framework/functions/helper.php:1764
+msgid "Sudan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1765
+msgid "Suriname"
+msgstr ""
+
+#: ../framework/functions/helper.php:1766
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: ../framework/functions/helper.php:1767
+msgid "Swaziland"
+msgstr ""
+
+#: ../framework/functions/helper.php:1768
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: ../framework/functions/helper.php:1769
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: ../framework/functions/helper.php:1770
+msgid "Tajikistan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1771
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: ../framework/functions/helper.php:1772
+msgid "Thailand"
+msgstr ""
+
+#: ../framework/functions/helper.php:1773
+msgid "Timor-Leste"
+msgstr ""
+
+#: ../framework/functions/helper.php:1774
+msgid "Togo"
+msgstr ""
+
+#: ../framework/functions/helper.php:1775
+msgid "Tokelau"
+msgstr ""
+
+#: ../framework/functions/helper.php:1776
+msgid "Tonga"
+msgstr ""
+
+#: ../framework/functions/helper.php:1777
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../framework/functions/helper.php:1778
+msgid "Tunisia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1779
+msgid "Turkey"
+msgstr ""
+
+#: ../framework/functions/helper.php:1780
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1781
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1782
+msgid "Tuvalu"
+msgstr ""
+
+#: ../framework/functions/helper.php:1783
+msgid "Uganda"
+msgstr ""
+
+#: ../framework/functions/helper.php:1784
+msgid "Ukraine"
+msgstr ""
+
+#: ../framework/functions/helper.php:1785
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../framework/functions/helper.php:1786
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: ../framework/functions/helper.php:1787
+msgid "Uruguay"
+msgstr ""
+
+#: ../framework/functions/helper.php:1788
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../framework/functions/helper.php:1789
+msgid "Vanuatu"
+msgstr ""
+
+#: ../framework/functions/helper.php:1790
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+#: ../framework/functions/helper.php:1791
+msgid "Viet Nam"
+msgstr ""
+
+#: ../framework/functions/helper.php:1792
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: ../framework/functions/helper.php:1793
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: ../framework/functions/helper.php:1794
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: ../framework/functions/helper.php:1795
+msgid "Western Sahara"
+msgstr ""
+
+#: ../framework/functions/helper.php:1796
+msgid "Yemen"
+msgstr ""
+
+#: ../framework/functions/helper.php:1797
+msgid "Zambia"
+msgstr ""
+
+#: ../framework/functions/helper.php:1798
+msgid "Zimbabwe"
+msgstr ""
+
+#: ../framework/functions/helper.php:1818
+msgid "Home"
+msgstr ""
+
+#: ../framework/functions/helper.php:1819
+#: ../framework/functions/helper.php:1820
+#: ../framework/functions/helper.php:1822
+#: ../framework/functions/helper.php:1823 ../template-parts/page-title.php:16
+#: ../template-parts/page-title.php:19 ../template-parts/page-title.php:22
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../framework/functions/helper.php:1821
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: ../framework/functions/helper.php:1824
+msgid "Error 404"
+msgstr ""
+
+#: ../framework/functions/helper.php:2096
+msgid "Page"
+msgstr ""
+
+#: ../framework/functions/listings.php:210
+#: ../framework/functions/reservation.php:2181
+#: ../framework/functions/reservation.php:2261
+msgid "Pay with Credit Card"
+msgstr ""
+
+#: ../framework/functions/listings.php:211
+msgid "Featured Payment"
+msgstr ""
+
+#: ../framework/functions/listings.php:1620
+msgid "Security check failed!"
+msgstr ""
+
+#: ../framework/functions/listings.php:1626
+msgid "No listing ID found"
+msgstr ""
+
+#: ../framework/functions/listings.php:1640
+msgid "listing Deleted"
+msgstr ""
+
+#: ../framework/functions/listings.php:1644
+msgid "Permission denied"
+msgstr ""
+
+#: ../framework/functions/listings.php:1811
+msgid "Invalid Nonce"
+msgstr ""
+
+#: ../framework/functions/listings.php:1866
+msgid "Listing payment on "
+msgstr ""
+
+#: ../framework/functions/listings.php:1870
+msgid "Upgrade to featured listing on "
+msgstr ""
+
+#: ../framework/functions/listings.php:1921
+msgid "Upgrade to Featured Listing"
+msgstr ""
+
+#: ../framework/functions/listings.php:2547
+#: ../template-parts/dashboard/invoices/detail.php:61
+msgid "logo"
+msgstr ""
+
+#: ../framework/functions/listings.php:2559
+#: ../template-parts/dashboard/invoices/detail.php:73
+msgid "Invoice:"
+msgstr ""
+
+#: ../framework/functions/listings.php:2560
+#: ../template-parts/dashboard/invoices/detail.php:74
+msgid "Date:"
+msgstr ""
+
+#: ../framework/functions/listings.php:2567
+#: ../template-parts/dashboard/invoices/detail.php:81
+msgid "To:"
+msgstr ""
+
+#: ../framework/functions/listings.php:2569 ../localization.php:447
+#: ../template-parts/dashboard/invoices/detail.php:83
+msgid "Email:"
+msgstr ""
+
+#: ../framework/functions/listings.php:2571
+#: ../framework/options/homey-options.php:5117
+#: ../framework/options/homey-options.php:5119
+#: ../framework/options/homey-options.php:5552 ../localization.php:76
+#: ../localization.php:409 ../localization.php:436
+#: ../template-parts/dashboard/invoices/detail.php:85
+#: ../template-parts/dashboard/reservation/detail.php:143
+msgid "Details"
+msgstr ""
+
+#: ../framework/functions/listings.php:2592
+#: ../template-parts/dashboard/invoices/detail.php:106
+msgid "Additional Information:"
+msgstr ""
+
+#: ../framework/functions/listings.php:2732
+#: ../framework/functions/listings.php:2738 ../single-listing/prices.php:22
+#: ../single-listing/prices.php:28
+msgid "Per Stay"
+msgstr ""
+
+#: ../framework/functions/listings.php:2734
+#: ../framework/functions/listings.php:2740 ../localization.php:139
+#: ../single-listing/prices.php:24 ../single-listing/prices.php:30
+msgid "Daily"
+msgstr ""
+
+#: ../framework/functions/listings.php:2744 ../single-listing/prices.php:34
+msgid "Sat & Sun"
+msgstr ""
+
+#: ../framework/functions/listings.php:2747 ../single-listing/prices.php:37
+msgid "Fri & Sat"
+msgstr ""
+
+#: ../framework/functions/listings.php:2750 ../single-listing/prices.php:40
+msgid "Fri, Sat & Sun"
+msgstr ""
+
+#: ../framework/functions/messages.php:16
+#: ../framework/functions/messages.php:87
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: ../framework/functions/messages.php:24
+#: ../framework/functions/messages.php:95
+msgid "Please write something in message"
+msgstr ""
+
+#: ../framework/functions/messages.php:51
+msgid "Message sent successfully!"
+msgstr ""
+
+#: ../framework/functions/messages.php:64
+#: ../framework/functions/messages.php:131
+msgid "Some errors occurred! Please try again."
+msgstr ""
+
+#: ../framework/functions/messages.php:117
+msgid "Thread success fully created!"
+msgstr ""
+
+#: ../framework/functions/messages.php:527
+msgid "You have a new message on"
+msgstr ""
+
+#: ../framework/functions/messages.php:527
+msgid "from"
+msgstr ""
+
+#: ../framework/functions/messages.php:533
+msgid "Click here to see message on website dashboard."
+msgstr ""
+
+#: ../framework/functions/messages.php:546
+msgid "You have new message!"
+msgstr ""
+
+#: ../framework/functions/messages.php:584
+msgid "Favethemes"
+msgstr ""
+
+#: ../framework/functions/messages.php:590
+msgid "You have received a message from:"
+msgstr ""
+
+#: ../framework/functions/messages.php:611
+#, php-format
+msgid "New message sent by %s using agent contact form at %s"
+msgstr ""
+
+#: ../framework/functions/price.php:10
+msgid "$"
+msgstr ""
+
+#: ../framework/functions/price.php:231
+msgid "Cookie update failed"
+msgstr ""
+
+#: ../framework/functions/price.php:238
+msgid "Please install and activate favethemes-currency-converter plugin!"
+msgstr ""
+
+#: ../framework/functions/price.php:245
+msgid "Request not valid"
+msgstr ""
+
+#: ../framework/functions/price.php:362
+msgid "Choose Currency"
+msgstr ""
+
+#: ../framework/functions/profile.php:314
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+
+#: ../framework/functions/profile.php:320
+msgid "This Email is already used by another user. Please try a different one."
+msgstr ""
+
+#: ../framework/functions/profile.php:335
+msgid "Profile updated"
+msgstr ""
+
+#: ../framework/functions/profile.php:358
+msgid "New password or confirm password is blank"
+msgstr ""
+
+#: ../framework/functions/profile.php:362
+msgid "Passwords do not match"
+msgstr ""
+
+#: ../framework/functions/profile.php:371
+msgid "Password Updated"
+msgstr ""
+
+#: ../framework/functions/profile.php:373
+msgid "Something went wrong"
+msgstr ""
+
+#: ../framework/functions/profile.php:593
+msgid "Social Info"
+msgstr ""
+
+#: ../framework/functions/profile.php:597
+#: ../framework/options/homey-options.php:2573
+#: ../framework/options/homey-options.php:3178
+#: ../framework/options/homey-options.php:6907
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/functions/profile.php:601
+msgid "LinkedIn"
+msgstr ""
+
+#: ../framework/functions/profile.php:605
+#: ../framework/options/homey-options.php:2582
+#: ../framework/options/homey-options.php:3186
+#: ../framework/options/homey-options.php:6916
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/functions/profile.php:609
+#: ../framework/options/homey-options.php:2618
+#: ../framework/options/homey-options.php:3218
+#: ../framework/options/homey-options.php:6948
+msgid "Pinterest"
+msgstr ""
+
+#: ../framework/functions/profile.php:613
+#: ../framework/options/homey-options.php:2609
+#: ../framework/options/homey-options.php:3210
+#: ../framework/options/homey-options.php:6940
+msgid "Instagram"
+msgstr ""
+
+#: ../framework/functions/profile.php:617
+#: ../framework/options/homey-options.php:2636
+#: ../framework/options/homey-options.php:3234
+#: ../framework/options/homey-options.php:6964
+msgid "Youtube"
+msgstr ""
+
+#: ../framework/functions/profile.php:621
+msgid "Vimeo"
+msgstr ""
+
+#: ../framework/functions/profile.php:625
+#: ../framework/options/homey-options.php:2591
+#: ../framework/options/homey-options.php:3194
+#: ../framework/options/homey-options.php:6924
+msgid "Google Plus"
+msgstr ""
+
+#: ../framework/functions/reservation.php:1981
+#: ../framework/functions/reservation.php:2040
+msgid "success"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2082
+msgid "Approved"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2083
+#, php-format
+msgid "Approved (%s)"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2099
+msgid "Waiting Approval"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2100
+#, php-format
+msgid "Waiting Approval (%s)"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2116
+#: ../framework/functions/reservation.php:2848
+msgid "Declined"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2117
+#, php-format
+msgid "Declined (%s)"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2182
+#: ../framework/functions/reservation.php:2262
+#: ../framework/functions/reservation.php:2404
+#: ../framework/functions/reservation.php:2562
+msgid "Reservation Payment"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2353
+#: ../framework/functions/reservation.php:2504
+msgid "Reservation payment on "
+msgstr ""
+
+#: ../framework/functions/reservation.php:2730
+msgid ""
+"Your request has been submitted to the host to be confirmed availability."
+msgstr ""
+
+#: ../framework/functions/reservation.php:2735
+msgid ""
+"So far so good! Host confirmed availability for this reservation. Complete "
+"the payment due."
+msgstr ""
+
+#: ../framework/functions/reservation.php:2740
+msgid "Well done! Payment received the reservation has been booked."
+msgstr ""
+
+#: ../framework/functions/reservation.php:2746
+msgid "Your reservation has been declined by the host"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2751
+msgid "You have cancellated the reservation"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2759
+msgid "Horay! You received a new reservation. Confirm Availability."
+msgstr ""
+
+#: ../framework/functions/reservation.php:2764
+msgid "You confirmed availability for this reservation."
+msgstr ""
+
+#: ../framework/functions/reservation.php:2769
+msgid "Congratulations! The reservation has been booked."
+msgstr ""
+
+#: ../framework/functions/reservation.php:2775
+msgid "You have declined the reservation"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2781
+msgid "The reservation has been cancellated"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2812
+msgid "Submitted"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2814
+#: ../framework/functions/reservation.php:2819
+#: ../framework/functions/reservation.php:2824 ../localization.php:287
+#: ../template-parts/dashboard/actions.php:4
+msgid "Cancel"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2817 ../localization.php:408
+msgid "Pay Now"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2822
+#: ../framework/functions/reservation.php:2841 ../localization.php:216
+msgid "Booked"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2830
+msgid "Confirm Availability"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2832
+#: ../framework/functions/reservation.php:2837
+msgid "Decline"
+msgstr ""
+
+#: ../framework/functions/reservation.php:2835 ../localization.php:214
+msgid "Available"
+msgstr ""
+
+#: ../framework/functions/review.php:32 ../localization.php:361
+msgid "Review"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:68
+msgid "Listing Details"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:104
+msgid "Slider"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:729
+msgid "Do you want to display this property in the slider?"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:731
+msgid "Upload an image below if you selected yes."
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:735
+#: ../framework/options/homey-options.php:2715
+#: ../framework/options/homey-options.php:2758
+#: ../framework/options/homey-options.php:2788
+#: ../framework/options/homey-options.php:3100
+#: ../framework/options/homey-options.php:3551
+#: ../framework/options/homey-options.php:3658
+#: ../framework/options/homey-options.php:4710
+#: ../framework/options/homey-options.php:4720
+#: ../framework/options/homey-options.php:5042
+#: ../framework/options/homey-options.php:5506
+#: ../framework/options/homey-options.php:5516
+#: ../framework/options/homey-options.php:5526
+#: ../framework/options/homey-options.php:5536
+#: ../framework/options/homey-options.php:5546
+#: ../framework/options/homey-options.php:5556
+#: ../framework/options/homey-options.php:5566
+#: ../framework/options/homey-options.php:5576
+#: ../framework/options/homey-options.php:5586
+#: ../framework/options/homey-options.php:5596
+#: ../framework/options/homey-options.php:5606
+#: ../framework/options/homey-options.php:5616
+#: ../framework/options/homey-options.php:5888
+#: ../framework/options/homey-options.php:5969 ../localization.php:193
+#: ../template-parts/search/search-guests.php:29
+msgid "Yes"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:736
+#: ../framework/options/homey-options.php:2716
+#: ../framework/options/homey-options.php:2759
+#: ../framework/options/homey-options.php:2789
+#: ../framework/options/homey-options.php:3101
+#: ../framework/options/homey-options.php:3552
+#: ../framework/options/homey-options.php:3659
+#: ../framework/options/homey-options.php:4711
+#: ../framework/options/homey-options.php:4721
+#: ../framework/options/homey-options.php:5043
+#: ../framework/options/homey-options.php:5507
+#: ../framework/options/homey-options.php:5517
+#: ../framework/options/homey-options.php:5527
+#: ../framework/options/homey-options.php:5537
+#: ../framework/options/homey-options.php:5547
+#: ../framework/options/homey-options.php:5557
+#: ../framework/options/homey-options.php:5567
+#: ../framework/options/homey-options.php:5577
+#: ../framework/options/homey-options.php:5587
+#: ../framework/options/homey-options.php:5597
+#: ../framework/options/homey-options.php:5607
+#: ../framework/options/homey-options.php:5617
+#: ../framework/options/homey-options.php:5887
+#: ../framework/options/homey-options.php:5970 ../localization.php:194
+#: ../template-parts/search/search-guests.php:35
+msgid "No"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:742
+msgid "Slider Image"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:744
+msgid "Suggested size 1920 x 600"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:776
+msgid "Listing Advanced Options"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:782
+#: ../framework/metaboxes/homey-meta-boxes.php:877
+msgid "Order By"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:786
+#: ../framework/metaboxes/homey-meta-boxes.php:881
+#: ../framework/options/homey-options.php:3740
+#: ../framework/options/homey-options.php:5842 ../single-listing/reviews.php:38
+#: ../template-parts/listing/sort-tool.php:33
+#: ../template-parts/listing/sort-tool_2.php:32
+msgid "Date New to Old"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:787
+#: ../framework/metaboxes/homey-meta-boxes.php:882
+#: ../framework/options/homey-options.php:3741
+#: ../framework/options/homey-options.php:5843 ../single-listing/reviews.php:37
+#: ../template-parts/listing/sort-tool.php:32
+#: ../template-parts/listing/sort-tool_2.php:31
+msgid "Date Old to New"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:788
+#: ../framework/metaboxes/homey-meta-boxes.php:883
+#: ../framework/options/homey-options.php:3742
+#: ../framework/options/homey-options.php:5844 ../framework/vc_extend.php:123
+#: ../framework/vc_extend.php:386 ../template-parts/listing/sort-tool.php:26
+#: ../template-parts/listing/sort-tool_2.php:24
+msgid "Price (High to Low)"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:789
+#: ../framework/metaboxes/homey-meta-boxes.php:884
+#: ../framework/options/homey-options.php:3743
+#: ../framework/options/homey-options.php:5845 ../framework/vc_extend.php:122
+#: ../framework/vc_extend.php:385 ../template-parts/listing/sort-tool.php:25
+#: ../template-parts/listing/sort-tool_2.php:23
+msgid "Price (Low to High)"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:790
+#: ../framework/metaboxes/homey-meta-boxes.php:885
+#: ../framework/options/homey-options.php:3744
+#: ../framework/options/homey-options.php:5512
+#: ../framework/options/homey-options.php:5776
+#: ../framework/options/homey-options.php:5846
+#: ../template-parts/listing/sort-tool.php:28
+#: ../template-parts/listing/sort-tool_2.php:26
+msgid "Rating"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:791
+#: ../framework/metaboxes/homey-meta-boxes.php:886
+msgid "Show Featured on Top"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:799
+#: ../framework/metaboxes/homey-meta-boxes.php:894
+msgid "Number of listings to show"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:871
+msgid "Half Map Template Options"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:919
+msgid "Page Header Options"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:925
+msgid "Header Type"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:930
+#: ../framework/metaboxes/homey-meta-boxes.php:1006
+#: ../framework/metaboxes/homey-meta-boxes.php:1202
+#: ../template-parts/dashboard/messages/messages.php:73
+#: ../template-parts/dashboard/sidebar-listing.php:49
+msgid "Image"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:931
+msgid "Half Search"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:932
+#: ../framework/options/homey-options.php:1102
+#: ../framework/options/homey-options.php:5132 ../localization.php:270
+msgid "Video"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:933
+msgid "Properties Slider"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:934
+#: ../framework/metaboxes/homey-meta-boxes.php:995
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:935
+msgid "Google Map with Listings"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:939
+msgid "Choose page header type"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:942
+msgid "Map Data"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:947 ../localization.php:248
+#: ../template-parts/dashboard/profile/address.php:33
+msgid "City"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:950
+msgid "Choose where map show listings"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:954 ../localization.php:263
+msgid "Latitude"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:962 ../localization.php:262
+msgid "Longitude"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:970
+#: ../framework/metaboxes/listing-area-meta.php:13
+msgid "Select City"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:974
+msgid ""
+"Choose city for listings on map header, you can select multiple cities or "
+"keep all un-select to show from all cities"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:979
+#: ../framework/options/homey-options.php:549
+#: ../framework/options/homey-options.php:4923
+#: ../framework/options/homey-options.php:4955
+#: ../framework/options/homey-options.php:4987 ../localization.php:83
+#: ../template-parts/dashboard/sidebar-listing.php:83
+#: ../template/template-compare.php:119
+msgid "Title"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:987
+#: ../framework/options/homey-options.php:3414
+msgid "Subtitle"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1001
+msgid "Select an Slider"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1015
+#: ../framework/options/homey-options.php:2985
+msgid "MP4 File"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1021
+#: ../framework/options/homey-options.php:2995
+msgid "WEBM File"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1027
+#: ../framework/options/homey-options.php:3005
+msgid "OGV File"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1033
+msgid "Video Image"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1041
+msgid "Height"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1045
+msgid "Default 600px"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1050
+msgid "Height Mobile"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1054
+msgid "Default 300px"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1058
+msgid "Overlay Color Opacity"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1079
+msgid "Banner Search"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1083
+#: ../framework/metaboxes/homey-meta-boxes.php:1106
+#: ../framework/metaboxes/homey-meta-boxes.php:1117
+#: ../framework/options/homey-options.php:237
+#: ../framework/options/homey-options.php:6164
+#: ../framework/options/homey-options.php:6184
+#: ../framework/options/homey-options.php:6224 ../framework/vc_extend.php:408
+msgid "Enable"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1084
+#: ../framework/metaboxes/homey-meta-boxes.php:1107
+#: ../framework/metaboxes/homey-meta-boxes.php:1118
+#: ../framework/options/homey-options.php:238
+#: ../framework/options/homey-options.php:6165
+#: ../framework/options/homey-options.php:6185
+#: ../framework/options/homey-options.php:6225 ../framework/vc_extend.php:409
+msgid "Disable"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1090
+msgid "Banner Search Style"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1094
+#: ../framework/options/homey-options.php:2915
+msgid "Horizontal"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1095
+#: ../framework/options/homey-options.php:2916
+msgid "Vertical"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1102
+msgid "Full Screen"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1113
+#: ../framework/options/homey-options.php:4538
+msgid "Transparent Header"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1120
+msgid "It’s only work if the header v1 or v4 is selected"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1132
+msgid "Testimonial Details"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1138
+msgid "Testimonial Text"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1141
+msgid "Write a testimonial into the textarea."
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1144
+msgid "By who?"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1147
+msgid "Name of the client who gave feedback"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1150
+msgid "Position"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1153
+msgid "Ex: Founder & CEO."
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1156
+#: ../framework/options/homey-options.php:6117
+msgid "Company Name"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1162
+#: ../template-parts/dashboard/profile/photo.php:8
+msgid "Photo"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1176
+msgid "Partner Details"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1182
+msgid "Partner website address"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1185
+msgid "Enter website address"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1196
+msgid "Other Settings"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1219
+msgid "Google Map Marker Icon"
+msgstr ""
+
+#: ../framework/metaboxes/homey-meta-boxes.php:1226
+msgid "Google Map Marker Retina Icon"
+msgstr ""
+
+#: ../framework/metaboxes/listing-area-meta.php:11
+#: ../framework/metaboxes/listing-area-meta.php:50
+msgid "Which city has this area?"
+msgstr ""
+
+#: ../framework/metaboxes/listing-area-meta.php:16
+#: ../framework/metaboxes/listing-area-meta.php:55
+msgid "Select city which has this area."
+msgstr ""
+
+#: ../framework/metaboxes/listing-cities-meta.php:10
+#: ../framework/metaboxes/listing-cities-meta.php:49
+msgid "Which state has this city?"
+msgstr ""
+
+#: ../framework/metaboxes/listing-cities-meta.php:12
+msgid "Select State"
+msgstr ""
+
+#: ../framework/metaboxes/listing-cities-meta.php:15
+#: ../framework/metaboxes/listing-cities-meta.php:54
+msgid "Select state which has this city."
+msgstr ""
+
+#: ../framework/metaboxes/listing-state-meta.php:13
+#: ../framework/metaboxes/listing-state-meta.php:47
+msgid "Which country has this state?"
+msgstr ""
+
+#: ../framework/metaboxes/listing-state-meta.php:15
+#: ../framework/metaboxes/listing-state-meta.php:50
+msgid "Select Country"
+msgstr ""
+
+#: ../framework/metaboxes/listing-state-meta.php:18
+#: ../framework/metaboxes/listing-state-meta.php:53
+msgid "Select country which has this state."
+msgstr ""
+
+#: ../framework/metaboxes/listing-type-meta.php:10
+msgid "Global Color"
+msgstr ""
+
+#: ../framework/metaboxes/listing-type-meta.php:11
+#: ../framework/metaboxes/listing-type-meta.php:61
+msgid "Inherit from default accent color"
+msgstr ""
+
+#: ../framework/metaboxes/listing-type-meta.php:12
+#: ../framework/metaboxes/listing-type-meta.php:62
+msgid "Custom"
+msgstr ""
+
+#: ../framework/metaboxes/listing-type-meta.php:20
+#: ../framework/metaboxes/listing-type-meta.php:70
+msgid "Choose color"
+msgstr ""
+
+#: ../framework/metaboxes/listing-type-meta.php:49
+msgid "Recently used"
+msgstr ""
+
+#: ../framework/metaboxes/listing-type-meta.php:59
+msgid "Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:77
+msgid "Homey Options"
+msgstr ""
+
+#: ../framework/options/homey-options.php:78
+msgid "Options Options"
+msgstr ""
+
+#: ../framework/options/homey-options.php:178
+msgid "Support"
+msgstr ""
+
+#: ../framework/options/homey-options.php:215 ../localization.php:392
+msgid "General"
+msgstr ""
+
+#: ../framework/options/homey-options.php:223
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../framework/options/homey-options.php:224
+msgid "Enable/Disable the sticky menu"
+msgstr ""
+
+#: ../framework/options/homey-options.php:227
+#: ../framework/options/homey-options.php:248
+#: ../framework/options/homey-options.php:258
+#: ../framework/options/homey-options.php:2525
+#: ../framework/options/homey-options.php:2662
+#: ../framework/options/homey-options.php:2672
+#: ../framework/options/homey-options.php:2836
+#: ../framework/options/homey-options.php:2904
+#: ../framework/options/homey-options.php:2929
+#: ../framework/options/homey-options.php:3077
+#: ../framework/options/homey-options.php:3260
+#: ../framework/options/homey-options.php:3448
+#: ../framework/options/homey-options.php:3494
+#: ../framework/options/homey-options.php:3826
+#: ../framework/options/homey-options.php:3878
+#: ../framework/options/homey-options.php:3937
+#: ../framework/options/homey-options.php:5065
+#: ../framework/options/homey-options.php:5075
+#: ../framework/options/homey-options.php:5085
+#: ../framework/options/homey-options.php:5095
+#: ../framework/options/homey-options.php:5720
+#: ../framework/options/homey-options.php:5730
+#: ../framework/options/homey-options.php:5740
+#: ../framework/options/homey-options.php:5750
+#: ../framework/options/homey-options.php:5760
+#: ../framework/options/homey-options.php:5770
+#: ../framework/options/homey-options.php:5780
+#: ../framework/options/homey-options.php:5790
+#: ../framework/options/homey-options.php:6064
+#: ../framework/options/homey-options.php:6995
+msgid "Enabled"
+msgstr ""
+
+#: ../framework/options/homey-options.php:228
+#: ../framework/options/homey-options.php:249
+#: ../framework/options/homey-options.php:259
+#: ../framework/options/homey-options.php:2526
+#: ../framework/options/homey-options.php:2663
+#: ../framework/options/homey-options.php:2673
+#: ../framework/options/homey-options.php:2837
+#: ../framework/options/homey-options.php:2905
+#: ../framework/options/homey-options.php:2930
+#: ../framework/options/homey-options.php:3078
+#: ../framework/options/homey-options.php:3261
+#: ../framework/options/homey-options.php:3449
+#: ../framework/options/homey-options.php:3495
+#: ../framework/options/homey-options.php:3827
+#: ../framework/options/homey-options.php:3879
+#: ../framework/options/homey-options.php:3938
+#: ../framework/options/homey-options.php:5066
+#: ../framework/options/homey-options.php:5076
+#: ../framework/options/homey-options.php:5086
+#: ../framework/options/homey-options.php:5096
+#: ../framework/options/homey-options.php:5721
+#: ../framework/options/homey-options.php:5731
+#: ../framework/options/homey-options.php:5741
+#: ../framework/options/homey-options.php:5751
+#: ../framework/options/homey-options.php:5761
+#: ../framework/options/homey-options.php:5771
+#: ../framework/options/homey-options.php:5781
+#: ../framework/options/homey-options.php:5791
+#: ../framework/options/homey-options.php:6065
+#: ../framework/options/homey-options.php:6996
+msgid "Disabled"
+msgstr ""
+
+#: ../framework/options/homey-options.php:233
+msgid "Sticky Search"
+msgstr ""
+
+#: ../framework/options/homey-options.php:235
+msgid "Enable/Disable sticky seach"
+msgstr ""
+
+#: ../framework/options/homey-options.php:244
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../framework/options/homey-options.php:246
+msgid "Enable/Disable the breadcrumb"
+msgstr ""
+
+#: ../framework/options/homey-options.php:254
+msgid "Scroll To Top"
+msgstr ""
+
+#: ../framework/options/homey-options.php:256
+msgid "Enable/Disable the scroll to top button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:264
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: ../framework/options/homey-options.php:266
+msgid "Choose which sidebars you want to be sticky?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:268 ../functions.php:243
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../framework/options/homey-options.php:269 ../functions.php:261
+msgid "Listings Sidebar"
+msgstr ""
+
+#: ../framework/options/homey-options.php:270 ../functions.php:252
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../framework/options/homey-options.php:271 ../functions.php:271
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../framework/options/homey-options.php:284
+msgid "Labels"
+msgstr ""
+
+#: ../framework/options/homey-options.php:293
+msgid "Common"
+msgstr ""
+
+#: ../framework/options/homey-options.php:333
+msgid "Searches & Booking"
+msgstr ""
+
+#: ../framework/options/homey-options.php:335
+msgid "Manage searches and booking form labels."
+msgstr ""
+
+#: ../framework/options/homey-options.php:461
+#: ../framework/options/homey-options.php:4698 ../localization.php:533
+msgid "Add New Listing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:463
+msgid "Manage add new listing section and fields titles."
+msgstr ""
+
+#: ../framework/options/homey-options.php:471
+msgid "Yes Label"
+msgstr ""
+
+#: ../framework/options/homey-options.php:480
+msgid "No Label"
+msgstr ""
+
+#: ../framework/options/homey-options.php:489
+msgid "Per Stay Label"
+msgstr ""
+
+#: ../framework/options/homey-options.php:498
+msgid "Daily Label"
+msgstr ""
+
+#: ../framework/options/homey-options.php:506
+#: ../template-parts/listing/compare.php:26
+msgid "Close"
+msgstr ""
+
+#: ../framework/options/homey-options.php:509 ../localization.php:199
+msgid "Closed"
+msgstr ""
+
+#: ../framework/options/homey-options.php:514 ../localization.php:195
+#: ../template-parts/modal-window-register.php:66
+#: ../template-parts/modal-window-register.php:67
+msgid "Select"
+msgstr ""
+
+#: ../framework/options/homey-options.php:524
+#: ../framework/options/homey-options.php:4730 ../localization.php:80
+msgid "Information"
+msgstr ""
+
+#: ../framework/options/homey-options.php:526
+msgid "Enter title for information section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:540 ../framework/vc_extend.php:776
+#: ../localization.php:509
+msgid "Room Type"
+msgstr ""
+
+#: ../framework/options/homey-options.php:558
+msgid "Title Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:567
+#: ../framework/options/homey-options.php:4932
+#: ../framework/options/homey-options.php:4964
+#: ../framework/options/homey-options.php:4996
+#: ../framework/options/homey-options.php:5542 ../localization.php:86
+msgid "Description"
+msgstr ""
+
+#: ../framework/options/homey-options.php:576
+msgid "Number of Bedrooms"
+msgstr ""
+
+#: ../framework/options/homey-options.php:585
+msgid "Number of Bedrooms Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:594
+msgid "Number of Guests"
+msgstr ""
+
+#: ../framework/options/homey-options.php:603
+#: ../framework/options/homey-options.php:1366
+msgid "Number of Guests Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:612
+msgid "Number of Beds"
+msgstr ""
+
+#: ../framework/options/homey-options.php:621
+msgid "Number of Beds Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:630
+msgid "Number of Bathrooms"
+msgstr ""
+
+#: ../framework/options/homey-options.php:639
+msgid "Number of Bathrooms Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:648 ../localization.php:91
+msgid "Number of Rooms"
+msgstr ""
+
+#: ../framework/options/homey-options.php:657
+msgid "Number of Rooms Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:666
+#: ../framework/options/homey-options.php:5377
+#: ../framework/options/homey-options.php:5428 ../localization.php:508
+msgid "Listing Type"
+msgstr ""
+
+#: ../framework/options/homey-options.php:675
+msgid "Listing Type Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:684 ../localization.php:49
+#: ../localization.php:101 ../localization.php:512
+msgid "Size"
+msgstr ""
+
+#: ../framework/options/homey-options.php:693
+msgid "Size Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:702 ../localization.php:104
+msgid "Unit of measure"
+msgstr ""
+
+#: ../framework/options/homey-options.php:711
+msgid "Unit of measure Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:720
+#: ../framework/options/homey-options.php:3822
+msgid "Make Featured"
+msgstr ""
+
+#: ../framework/options/homey-options.php:736
+#: ../framework/options/homey-options.php:4731
+#: ../framework/options/homey-options.php:5562 ../localization.php:223
+msgid "Pricing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:738
+msgid "Enter title for pricing section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:751
+#: ../single-listing/booking/overlay-booking.php:29
+#: ../single-listing/booking/overlay-booking.php:67
+#: ../single-listing/booking/sidebar-booking-module.php:66
+msgid "Instant Booking"
+msgstr ""
+
+#: ../framework/options/homey-options.php:760
+msgid "Instant Booking Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:778
+msgid "Nightly Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:796
+msgid "Weekends Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:805
+msgid "Weekend Days"
+msgstr ""
+
+#: ../framework/options/homey-options.php:821 ../localization.php:234
+msgid "Long-term pricing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:823
+msgid "Enter title for Long-term pricing section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:837 ../localization.php:235
+msgid "Weekly - 7+ nights"
+msgstr ""
+
+#: ../framework/options/homey-options.php:846
+msgid "Weekly - 7+ nights Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:855 ../localization.php:236
+msgid "Monthly - 30+ nights"
+msgstr ""
+
+#: ../framework/options/homey-options.php:864
+msgid "Monthly - 30+ nights Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:880 ../localization.php:239
+msgid "Additional costs"
+msgstr ""
+
+#: ../framework/options/homey-options.php:882
+msgid "Enter title for additional costs section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:914
+msgid "Additional Guests Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:932
+msgid "Cleaning Fee Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:941
+msgid "Cleaning Fee Type"
+msgstr ""
+
+#: ../framework/options/homey-options.php:959
+msgid "City Fee Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:967
+msgid "City Fee Type"
+msgstr ""
+
+#: ../framework/options/homey-options.php:985
+msgid "Security Deposit Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1003
+msgid "Tax Field Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1019
+#: ../framework/options/homey-options.php:4733
+#: ../framework/options/homey-options.php:5122
+#: ../framework/options/homey-options.php:5582 ../localization.php:106
+msgid "Features"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1021
+msgid "Enter title for features section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1059
+#: ../framework/options/homey-options.php:1062
+#: ../framework/options/homey-options.php:4732
+msgid "Media"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1061
+msgid "Enter title for Media section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1075
+msgid "Drag & Drop"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1084
+msgid "Image Size"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1093
+msgid "Upload Button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1111
+msgid "Video Url"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1120
+msgid "Video Url Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1138
+msgid "Enter title for location section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1160
+msgid "Address Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1177
+msgid "AptSuit Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1194
+msgid "Country Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1211
+msgid "State Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1228
+msgid "City Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1245
+msgid "Area Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1262
+msgid "Zipcode Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1271
+msgid "Map Drag Title"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1280 ../localization.php:261
+msgid "Find Address"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1307
+msgid "Find Address Button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1325
+msgid "Enter title for bedrooms section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1348
+msgid "Bedroom Name Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1384
+msgid "Number of beds Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1402
+msgid "Bed type Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1411
+#: ../framework/options/homey-options.php:1508
+msgid "Button Remove"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1420
+#: ../framework/options/homey-options.php:1517
+msgid "Button Add More"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1438
+msgid "Enter title for services section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1461
+msgid "Service Name Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1479
+msgid "Service price Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1497
+msgid "Service description Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1535
+msgid "Enter title for terms & rules section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1558
+msgid "Policy Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1576
+msgid "Minimum days of a booking Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1594
+msgid "Maximum days of a booking Placeholder"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1672
+#: ../framework/options/homey-options.php:1675 ../localization.php:196
+msgid "Openning Hours"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1674
+msgid "Enter title for openning hours section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1689
+#: ../framework/options/homey-options.php:1692
+msgid "Monday to Friday"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1698
+#: ../framework/options/homey-options.php:1701
+msgid "Saturday"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1707
+#: ../framework/options/homey-options.php:1710
+msgid "Sunday"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1722
+#: ../framework/options/homey-options.php:5014
+msgid "Listing Detail Page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:1724
+msgid "Manage listing detail page labels."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2170
+msgid "<span class=\"font24\">Section Titles</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2274
+msgid "Grid, List & Card"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2276
+msgid "Manage titles for Grid, List & Card"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2307
+msgid "Logos & Favicon"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2316
+#: ../framework/options/homey-options.php:6191
+msgid "Logo"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2319
+msgid "Upload the logo."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2326
+msgid "Retina Logo"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2328
+msgid ""
+"Upload the logo for retina devices (The retina logo have to be double size "
+"of the regular logo)."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2335
+msgid "Logo Splash & Transparent Header"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2338
+msgid "Upload the logo for the splash page and the transparent header."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2345
+msgid "Retina Logo Splash  & Transparent Header"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2347
+msgid ""
+"Upload the retina logo for splash page and transparent header (The retina "
+"logo have to be double size of the regular logo)."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2354
+msgid "Mobile Logo"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2357
+msgid "Upload the custom site logo for mobiles."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2364
+msgid "Mobile Retina Logo"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2366
+msgid ""
+"Upload the retina logo for mobiles (The retina logo have to be double size "
+"of the regular logo)."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2373
+msgid "Mobile Logo Splash"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2376
+msgid "Upload the logo for the mobile splash page."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2383
+msgid "Mobile Retina Logo Splash"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2385
+msgid ""
+"Upload the retina logo for the mobile splash page (The retina logo have to "
+"be double size of the regular logo)."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2393
+msgid "Desktop logo dimensions"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2406
+msgid "Tablet and mobile logo dimensions"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2419
+msgid "Favicon"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2421
+msgid "Upload the site favicon. (16px x 16px)"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2428
+msgid "Apple iPhone Icon "
+msgstr ""
+
+#: ../framework/options/homey-options.php:2432
+msgid "Upload the iPhone icon (57px x 57px)."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2439
+msgid "Apple iPhone Retina Icon "
+msgstr ""
+
+#: ../framework/options/homey-options.php:2443
+msgid "Upload the iPhone retina icon (114px x 114px)."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2450
+msgid "Apple iPad Icon "
+msgstr ""
+
+#: ../framework/options/homey-options.php:2454
+msgid "Upload the iPad icon (72px x 72px)."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2461
+msgid "Apple iPad Retina Icon "
+msgstr ""
+
+#: ../framework/options/homey-options.php:2465
+msgid "Upload the iPad retina icon (144px x 144px)."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2474
+msgid "Header Nav"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2481
+msgid "Header Style"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2484
+msgid "Header v1"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2485
+msgid "Header v2"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2486
+msgid "Header v3"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2487
+msgid "Header v4"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2489
+msgid "Select the header version you want to use"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2495
+#: ../framework/options/homey-options.php:3084
+#: ../framework/options/homey-options.php:3558
+#: ../framework/options/homey-options.php:3711
+#: ../framework/options/homey-options.php:5022
+#: ../framework/options/homey-options.php:5323
+msgid "Layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2498
+#: ../framework/options/homey-options.php:3087
+#: ../framework/options/homey-options.php:3561
+msgid "Boxed"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2499
+#: ../framework/options/homey-options.php:3088
+#: ../framework/options/homey-options.php:3562
+msgid "Full Width"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2501
+msgid "Select the header layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2507
+#: ../framework/options/homey-options.php:2936
+msgid "Navigation Align"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2510
+#: ../framework/options/homey-options.php:2939
+msgid "Left Align"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2511
+#: ../framework/options/homey-options.php:2940
+msgid "Right Align"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2512
+msgid "Center Align (only for header v2)"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2514
+#: ../framework/options/homey-options.php:2942
+msgid "Select the navigation alignment"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2521
+msgid "Become Host"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2522
+msgid "Enable/Disable the become host button on the main menu"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2532
+msgid "Become Host Page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2534
+msgid "Select which page to link the become host button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2540
+#: ../framework/options/homey-options.php:4414 ../localization.php:339
+msgid "Become a Host"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2541
+msgid "Become Host Text"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2543
+msgid "Enter text for the become host button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2553
+#: ../framework/options/homey-options.php:3169
+msgid "Social"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2562
+msgid "Social media icons for header v3"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2563
+msgid "Enable/Disable the social media icons for the header v3"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2575
+#: ../framework/options/homey-options.php:3180
+msgid "Enter your Facebook profile or page URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2584
+#: ../framework/options/homey-options.php:3188
+#: ../framework/options/homey-options.php:6917
+msgid "Enter your Twitter profile URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2593
+#: ../framework/options/homey-options.php:3196
+#: ../framework/options/homey-options.php:6925
+msgid "Enter your Google Plus profile URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2600
+#: ../framework/options/homey-options.php:3202
+#: ../framework/options/homey-options.php:6932
+msgid "Linked In"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2602
+#: ../framework/options/homey-options.php:3204
+#: ../framework/options/homey-options.php:6933
+msgid "Enter your Linkedin profile or business page URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2611
+#: ../framework/options/homey-options.php:3212
+#: ../framework/options/homey-options.php:6941
+msgid "Enter your Instagram profile URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2620
+#: ../framework/options/homey-options.php:3220
+#: ../framework/options/homey-options.php:6949
+msgid "Enter your Pinterest profile URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2627
+#: ../framework/options/homey-options.php:3226
+#: ../framework/options/homey-options.php:6956 ../localization.php:452
+msgid "Yelp"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2629
+#: ../framework/options/homey-options.php:3228
+#: ../framework/options/homey-options.php:6957
+msgid "Enter your Yelp profile or page URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2638
+#: ../framework/options/homey-options.php:3236
+#: ../framework/options/homey-options.php:6965
+msgid "Enter Youtube profile URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2650
+#: ../framework/options/homey-options.php:4343
+msgid "Login & Register"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2658 ../localization.php:337
+#: ../template-parts/modal-window-login.php:24
+msgid "Login"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2659
+msgid "Enable/Disable the login button on the main menu"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2668 ../framework/vc_extend.php:217
+#: ../localization.php:338 ../template-parts/modal-window-login.php:72
+#: ../template-parts/modal-window-register.php:28
+#: ../template-parts/modal-window-register.php:96
+msgid "Register"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2669
+msgid "Enable/Disable the register button on the main menu"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2679
+msgid "Login Screen Image"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2682
+msgid "Upload an image for the login pop-up"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2687
+msgid "Login screen text"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2690
+msgid "Enter a overlay text for the login screen image"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2696
+msgid "Register Screen Image"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2699
+msgid "Upload an image for the register pop-up"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2704
+msgid "Register screen text"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2707
+msgid "Enter a overlay text for the register screen image"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2712
+msgid "Users can type the password on registration form"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2718
+msgid "If no, users will get an auto-generated password via email"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2724
+msgid "After Login Redirect Page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2727
+msgid "Current Page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2728
+msgid "Different Page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2730
+msgid ""
+"Select a page where you want to redirect the users after they have been "
+"logged in"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2737
+msgid "Enter Redirect Page Link"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2738
+msgid "This must be a URL."
+msgstr ""
+
+#: ../framework/options/homey-options.php:2748
+#: ../framework/options/homey-options.php:3850
+msgid "Terms & Conditions"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2750
+msgid "Select the page to use for Terms & Conditions"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2755
+msgid "Allow login via Facebook?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2768
+msgid "Facebook Api key"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2770
+msgid "Enter the Facebook Api code for Facebook login"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2777
+msgid "Facebook Secret Code"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2779
+msgid "Enter the Facebook the secret code for Facebook login"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2785
+msgid "Allow login via Google?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2798
+msgid "Google Api key"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2800
+msgid "Enter the Google Api code for Google login"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2807
+msgid "Google OAuth Client ID"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2809
+msgid "Enter the Google oAuth client ID for Google login"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2816
+msgid "Google Client Secret"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2818
+msgid "Enter the Google client secret code for Google login"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2825
+msgid "User Roles"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2833
+msgid "User roles on the register form"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2838
+msgid "Enable/Disable user roles on the register form"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2843
+msgid "Host Role"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2844
+msgid "Name for host role"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2845
+msgid "Default: I want to host"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2851
+msgid "Renter Role"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2852
+msgid "Name for renter role"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2853
+msgid "Default: I want to book"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2866
+msgid "Splash Page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2874
+msgid "Splash Page Layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2880
+msgid "Select the splash page layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2886
+msgid "Background Type"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2893
+msgid "Select the background type for the splash page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2900
+#: ../framework/options/homey-options.php:3539
+#: ../framework/options/homey-options.php:4567 ../localization.php:400
+#: ../localization.php:510
+#: ../template-parts/search/overlay-mobile-search.php:37
+msgid "Search"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2901
+msgid "Enable/Disable the splash page search"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2911
+msgid "Search Style"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2918
+msgid "Choose the splash page search style"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2925
+msgid "Navigation"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2926
+msgid "Enable/Disable the navigation menu on the splash page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2952
+msgid "Upload image"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2955
+#: ../framework/options/homey-options.php:2967
+msgid "Recommended image size 2000 x 1000 pixels"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2964
+msgid "Add/Edit Images"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2976
+msgid "Background Video Options"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2987
+msgid "Upload the MP4 file"
+msgstr ""
+
+#: ../framework/options/homey-options.php:2997
+msgid "Upload the WEBM file"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3007
+msgid "Upload the OGV file"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3014
+msgid "Upload video image"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3016
+msgid "Upload an image to use as cover during the video file load"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3027
+msgid "Opacity"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3029
+msgid "Enter overlay opacity ie: 0.1, 0.2, 0.5"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3038
+msgid "Welcome Title"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3046
+msgid "Splash Page Title"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3048
+msgid "Enter the splash page title"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3054
+msgid "Splash Page Subtitle"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3056
+msgid "Enter the splash page subtitle"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3066
+#: ../framework/options/homey-options.php:4587
+msgid "Top Bar"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3074
+msgid "Top bar"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3079
+msgid "Enable/Disable the header top bar"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3090
+msgid "Select the top bar layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3096
+msgid "Hide Top Bar in Mobile?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3097
+msgid "Select yes if you want to hide the top bar on mobile devices"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3106
+msgid "Top Bar Left Area"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3108
+msgid "What would you like to show on the top bar left area"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3110
+#: ../framework/options/homey-options.php:3127
+msgid "Nothing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3112
+#: ../framework/options/homey-options.php:3129
+msgid "Social Icons"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3113
+#: ../framework/options/homey-options.php:3130
+msgid "Contact Info"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3115
+#: ../framework/options/homey-options.php:3132
+#: ../framework/options/homey-options.php:3256
+msgid "Currency Switcher"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3116
+#: ../framework/options/homey-options.php:3133
+#: ../framework/options/homey-options.php:3158
+msgid "Slogan"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3123
+msgid "Top Bar Right Area"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3125
+msgid "What would you like to show on the top bar right area"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3142
+msgid "Phone Number"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3144
+msgid "Enter your phone number"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3150
+#: ../template-parts/dashboard/profile/progress.php:21
+#: ../template-parts/dashboard/profile/status.php:32
+#: ../template-parts/dashboard/profile/verification.php:13
+msgid "Email Address"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3152
+msgid "Enter your email address"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3160
+msgid "Enter the website slogan"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3247
+msgid "Price & Currency"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3258
+msgid "Enable currency switcher"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3266
+msgid "Default Currency"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3268
+msgid "Choose default currency"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3276
+msgid "Info"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3277
+msgid ""
+"Please <a target=\"_blank\" href=\"admin.php?page=homey_currencies\">Add "
+"Currencies</a> here."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3283
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3287
+msgid "Provide the currency simbol. For example $"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3293
+msgid "Where to Show the currency?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3296
+msgid "Before"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3297
+msgid "After"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3305
+msgid "Number of decimal points?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3326
+msgid "Decimal Point Separator"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3329
+msgid "Provide the decimal point separator. For Example: ."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3335
+msgid "Thousands Separator"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3338
+msgid "Provide the thousands separator. For Example: ,"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3348
+#: ../framework/options/homey-options.php:6449 ../localization.php:302
+#: ../localization.php:319
+msgid "Reservation"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3357
+msgid "Payment while booking"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3359
+msgid ""
+"Check how much initial payment you want the client to deposit while booking"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3361
+msgid "Percentage(%)"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3362
+msgid "Full Payment"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3363
+msgid "Security Deposit (It can be add while add/edit listing)"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3364
+msgid "Only Services Fee"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3365
+msgid "Services fee + Security deposit"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3366
+msgid "No upfront, Take full payment locally"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3373
+msgid "Percent"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3375
+msgid "Enter how many % payment required while booking."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3384
+msgid "After how many hours the reservation must be cancel?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3385
+msgid "IE: 1, 2, 4, 5"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3386
+msgid ""
+"Insert the number of hours a pending reservation must be canceled if the "
+"customer does not make the payment after the listing author has confirmed "
+"the availability."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3398
+msgid "Instance Booking"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3406
+#: ../framework/options/homey-options.php:6739
+msgid "Page Title"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3407
+msgid "Enter instance booking page title."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3415
+msgid "Enter instance booking page subtitle."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3422
+msgid "Learn More link"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3423
+msgid "Enter link for learn more."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3436
+#: ../framework/options/homey-options.php:3445
+msgid "Services Fee"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3446
+msgid "Enable/Disable the services fee for booking."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3459
+msgid "Fixed"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3460
+msgid "Percent(%)"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3467
+msgid "Amount"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3469
+msgid "Enter the service fee amount. Only number"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3482
+#: ../framework/options/homey-options.php:3491 ../localization.php:351
+msgid "Taxes"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3492
+msgid "Enable/Disable the taxes for booking."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3505
+msgid ""
+"Global tax (all listings will have same tax percentage as set in below field)"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3506
+msgid ""
+"Single listing tax (each listing will have a tax field where to add "
+"different tax percentage\n"
+"according to the law in their country)"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3514
+msgid "Tax fees"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3516
+msgid "Enter the tax fees in percentage. Only number"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3547
+msgid "Search."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3549
+msgid "Enable/Disable the search system"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3564
+msgid "Select the search layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3570
+msgid "Search Position"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3574
+msgid "Under Navigation"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3575
+msgid "Under banner ( Slider, Video, Map etc )"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3577
+msgid "Select the search position"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3583
+msgid "Search Pages"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3587
+msgid "Only Homepage"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3588
+msgid "Homepage + Inner Pages"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3589
+msgid "Only Inner Pages"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3590
+msgid "Specific Pages"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3592
+msgid "Select on what page you want to show search"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3600
+msgid "Select Pages"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3601
+msgid "You can select multiple pages"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3609
+msgid "Minimum Prices List for Advanced Search Form"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3612
+#: ../framework/options/homey-options.php:3621
+msgid ""
+"Only provide comma separated numbers. Do not add any decimal points, dashes, "
+"spaces or currency symbols."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3618
+msgid "Maximum Prices List for Advanced Search Form"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3628
+msgid "Search Fields"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3636
+msgid "Search Visible Fields"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3637
+msgid "It is suggested to use maximum 3 modules"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3638
+msgid "Drag and drop fields, to quickly search."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3641
+#: ../framework/options/homey-options.php:4734 ../localization.php:109
+msgid "Location"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3654
+msgid "Advanced Filters"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3656
+msgid "Enable/Disable the advanced filters on the search system"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3664
+msgid "Hide Fields"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3666
+msgid "Choose which fields you want to hide in advanced search area"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3689
+msgid "Bedrooms, Rooms"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3690
+msgid "Search criteria for bedrooms and rooms"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3693
+msgid "Equal"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3694
+msgid "Greater than or equal to"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3695
+msgid "Less than or equal to"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3703
+msgid "Search Results Page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3718
+msgid "Select the layout for the search results page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3724
+#: ../framework/options/homey-options.php:5662
+#: ../framework/options/homey-options.php:5695
+#: ../framework/options/homey-options.php:5826
+msgid "Listings Layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3725
+msgid "Select the listings layout for the search results page."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3737
+#: ../framework/options/homey-options.php:5839 ../single-listing/reviews.php:36
+#: ../template-parts/listing/sort-tool.php:23
+#: ../template-parts/listing/sort-tool.php:24
+#: ../template-parts/listing/sort-tool_2.php:21
+#: ../template-parts/listing/sort-tool_2.php:22
+msgid "Default Order"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3738
+msgid "Select the search results page listings default display order."
+msgstr ""
+
+#: ../framework/options/homey-options.php:3745
+#: ../framework/options/homey-options.php:5847
+msgid "Show Featured Listings on Top"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3753
+msgid "Number of Listings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3755
+msgid "Enter the number of listings to show on the search results page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3765
+msgid "Payment Gateways"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3773
+msgid "Currency"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3775
+msgid "Select the currency to use for payments"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3823
+msgid "Allow user to pay for featuring their listings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3832
+msgid "Featured Listing Price"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3833
+msgid "Enter the price to make a listing featured. Only numbers"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3841
+msgid "Number of Expire Days"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3843
+msgid ""
+"No of days until a featured listings will expire. It starts from the moment "
+"the listing is published on the website. Enter -1 for unlimited"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3851
+msgid "Select the page to use for the terms & conditions"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3858
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3859
+msgid "Select the page to use for the privacy policy"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3866
+msgid "Paypal Settings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3874
+msgid "Enable Paypal"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3884
+msgid "Paypal Api"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3886
+msgid "Update PayPal, settings according to API type selection"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3898
+msgid "Paypal Client ID"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3907
+msgid "Paypal Client Secret Key"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3916
+msgid "Paypal Receiving Email"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3925
+msgid "Stripe Settings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3933
+msgid "Enable Stripe"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3943
+msgid "Stripe Api"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3945
+msgid "Update Stripe, settings according to API type selection"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3957
+msgid "Stripe Secret Key"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3958
+#: ../framework/options/homey-options.php:3967
+msgid ""
+"The information is taken from your account at https://dashboard.stripe.com/"
+"login"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3966
+msgid "Stripe Publishable Key"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3979
+msgid "Typography"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3987
+#: ../framework/options/homey-options.php:4073
+msgid "Body"
+msgstr ""
+
+#: ../framework/options/homey-options.php:3996
+msgid "Select your custom font options for your main body font."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4011
+msgid "Menu"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4020
+msgid "Select your custom font options for your main meny."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4036
+msgid "Headings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4047
+msgid "Select your custom font options for headings ( h1, h2, h3, h3 etc )."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4063
+msgid "Styling"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4081
+#: ../framework/options/homey-options.php:4235
+#: ../framework/options/homey-options.php:4492
+#: ../framework/options/homey-options.php:4575
+#: ../framework/options/homey-options.php:4595
+#: ../framework/options/homey-options.php:4633
+#: ../framework/options/homey-options.php:4661
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4082
+msgid "Select body background color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4089
+#: ../framework/options/homey-options.php:4603
+#: ../framework/options/homey-options.php:4641
+#: ../framework/options/homey-options.php:4677
+msgid "Text Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4090
+msgid "Select the text color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4100
+msgid "Primary & Secondary"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4108
+msgid "Primary Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4109
+msgid "Select the website primary color."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4116
+msgid "Primary Hover Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4117
+msgid "Select the website primary hover color."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4124
+msgid "Secondary Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4125
+msgid "Select the website secondary color."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4132
+msgid "Secondary Hover Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4133
+msgid "Select the website secondary hover color."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4142
+msgid "Button Colors"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4150
+#: ../framework/options/homey-options.php:4162
+#: ../framework/options/homey-options.php:4174
+msgid "Primary Button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4151
+msgid "Select the primary button background color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4163
+msgid "Select the primary button border color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4175
+msgid "Select the primary button text color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4187
+#: ../framework/options/homey-options.php:4199
+#: ../framework/options/homey-options.php:4211
+msgid "Secondary Button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4188
+msgid "Select the secondary button background color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4200
+msgid "Select the secondary button border color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4212
+msgid "Select the secondary button text color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4227
+msgid "Headers"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4245
+#: ../framework/options/homey-options.php:4457
+#: ../framework/options/homey-options.php:4502
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4264
+#: ../framework/options/homey-options.php:4546
+msgid "Menu Text Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4273
+#: ../framework/options/homey-options.php:4555
+msgid "Menu Text Color on Hover"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4283
+msgid "Menu Text Dropdown Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4291
+msgid "Menu Text Dropdown Color Hover"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4300
+msgid "Menu Dropdown Background Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4310
+msgid "Menu dropdown Border"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4329
+msgid "Menu Button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4330
+msgid "Menu button color. It only works for header v4"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4350
+msgid "Login/Register Text Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4359
+msgid "Login/Register Text Color on Hover"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4368
+msgid "User Menu Text Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4377
+msgid "User Menu Text Color on Hover"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4386
+msgid "User Menu Color Hover background"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4395
+msgid "User Menu Background Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4421
+msgid "Button Text Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4430
+msgid "Button Text Color on Hover"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4439
+msgid "Button Background Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4448
+msgid "Button Background Color on Hover"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4466
+msgid "Border Color Hover"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4485
+msgid "Header Top Area (v2 and v3)"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4520
+msgid "Social Icons Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4611
+msgid "Text Color on Hover"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4625
+msgid "Featured Label"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4653
+#: ../framework/options/homey-options.php:6851
+msgid "Footer"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4662
+#: ../framework/options/homey-options.php:6235
+msgid "Select the footer background color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4669
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4670
+msgid "Select the footer bottom background color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4678
+msgid "Select the footer text color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4685
+msgid "Text Hover Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4686
+msgid "Select the footer text  hover color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4706
+msgid "Submited Listings Should be Approved by Admin?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4716
+msgid "Edit Listings Should be Approved by Admin?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4735
+#: ../framework/options/homey-options.php:5407
+#: ../framework/options/homey-options.php:5461 ../localization.php:50
+#: ../localization.php:166
+msgid "Bedrooms"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4736
+msgid "Terms & Rules"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4739
+#: ../framework/options/homey-options.php:5134 ../localization.php:180
+msgid "Services"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4747
+msgid "Latitudes"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4748
+msgid "Enter default latitudes for add new listing map."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4754
+msgid "Longitudes"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4755
+msgid "Enter default longitudes for add new listing map."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4762
+msgid "Opening Hours list"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4765
+#: ../framework/options/homey-options.php:4774
+msgid ""
+"Only provide hours comma separated. Do not add decimal points, dashes or "
+"spaces"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4771
+msgid "Check-in After & Check-out Before"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4830
+msgid "Show/Hide Fields"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4838
+msgid "Submit Form Fields"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4840
+msgid "Choose which fields you want to hide from the add new listing page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4884
+#: ../framework/options/homey-options.php:4892
+msgid "Required Fields"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4894
+msgid "Make add listing fields required."
+msgstr ""
+
+#: ../framework/options/homey-options.php:4907
+msgid "Submitted / Success"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4915
+msgid "Update Calendar"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4924
+msgid "Enter the title for the update calendar section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4933
+msgid "Enter a description for update calendar section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4947
+msgid "Custom Prices"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4956
+msgid "Enter the title for the custom prices section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4965
+msgid "Enter a description for the custom prices section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4979 ../localization.php:283
+#: ../template-parts/dashboard/upgrade-featured.php:95
+#: ../template/dashboard-listing-submitted.php:100 ../template/dashboard.php:32
+msgid "Upgrade to featured"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4988
+msgid "Enter the title for the upgrade to featured section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:4997
+msgid "Enter a description for the upgrade to featured section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5023
+msgid "Select the layout for the listing detail page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5026
+msgid "Version 1"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5027
+msgid "Version 2"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5028
+msgid "Version 3"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5029
+msgid "Version 4"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5038
+msgid "listing Detail Nav"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5039
+msgid "listing detail page sticky navigation"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5049
+msgid "What to display in the sidebar?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5050
+msgid "Select what to display in the sidebar of listing detail page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5053
+msgid "Booking form"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5054
+msgid "Contact Form"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5061
+#: ../framework/options/homey-options.php:5485
+msgid "Print Listing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5063
+msgid "Enable/Disable the print listing button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5071
+msgid "Favorite Listing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5073
+msgid "Enable/Disable the favorite listing button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5081
+msgid "Share buttons"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5083
+msgid "Enable/Disable the share button"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5092
+msgid "Contact Host"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5093
+msgid "Enable/Disable the contact host button."
+msgstr ""
+
+#: ../framework/options/homey-options.php:5104
+msgid "Layout Manager"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5116
+#: ../single-listing/listing-nav.php:14 ../single-listing/listing-nav.php:18
+msgid "About"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5118
+#: ../single-listing/listing-nav.php:30
+msgid "Gallery"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5120 ../localization.php:77
+msgid "Prices"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5121
+#: ../framework/options/homey-options.php:5387
+#: ../framework/options/homey-options.php:5439
+#: ../framework/options/homey-options.php:5572 ../localization.php:41
+#: ../localization.php:165
+msgid "Accomodation"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5123
+#: ../single-listing/listing-nav.php:42
+msgid "Map"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5124
+msgid "Yelp Near By Places"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5125
+#: ../framework/options/homey-options.php:5592
+msgid "Rules"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5126
+#: ../framework/options/homey-options.php:5602 ../localization.php:206
+msgid "Availability"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5127
+#: ../single-listing/listing-nav.php:70
+msgid "Host"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5128
+msgid "Reviews & Ratings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5129
+msgid "Similar Listing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5133
+msgid "About(commercial)"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5135
+msgid "Custom Periods"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5179
+#: ../framework/options/homey-options.php:5708
+msgid "Show/Hide Data"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5187
+msgid "Listing Detail Data"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5189
+msgid "Check what data you want to hide from the listing detail page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5229
+msgid "Yelp Nearby Places"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5237
+msgid "API Key"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5239
+msgid ""
+"Enter the API key provided by Yealp. Get this detail after you signup here "
+"<a target=\"_blank\" href=\"https://www.yelp.com/developers/v3/manage_app"
+"\">https://www.yelp.com/developers/v3/manage_app</a>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5245
+msgid "Select Term"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5246
+msgid "Select the Yelp terms that you want to display"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5277
+msgid "Result Limit"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5278
+msgid "Enter Yelp results limit. Only numbers"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5285
+msgid "Distance Unit"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5286
+msgid "Select the Yelp distance unit."
+msgstr ""
+
+#: ../framework/options/homey-options.php:5297
+msgid "Reviews & Rating"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5306
+msgid "Number of Reviews"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5307
+msgid "Enter the number of reviews to display per page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5314
+msgid "Similar Listings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5324
+msgid "Select the layout for the similar listings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5336
+msgid "Listing Number"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5337
+msgid "Select how many similar listings you want to display"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5356
+msgid "Icons"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5365
+msgid "Icon Type"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5397
+#: ../framework/options/homey-options.php:5450
+msgid "Accomodation Section"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5417
+#: ../framework/options/homey-options.php:5472 ../localization.php:51
+msgid "Bathrooms"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5494
+msgid "Print listing Logo"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5497
+msgid "Upload your custom site logo for the print listing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5502
+msgid "Tagline"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5522
+msgid "QR Code"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5532
+msgid "Host Info"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5612
+msgid "Gallery Images"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5623 ../framework/vc_extend.php:263
+#: ../localization.php:374
+msgid "Listings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5633
+msgid "Listings Page"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5641
+msgid "Pagination"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5642
+msgid "Select the pagination type for the listing pages"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5645
+msgid "Number"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5646 ../framework/vc_extend.php:406
+#: ../localization.php:281
+msgid "Load More"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5654
+msgid "Sticky Map Listings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5656
+msgid "Listing page with sticky map settings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5663
+msgid "Select the listings layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5687
+msgid "Half Map Listings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5696
+msgid "Select the listings layout for the half map page."
+msgstr ""
+
+#: ../framework/options/homey-options.php:5716
+msgid "Listing Data"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5718
+msgid "Enable/Disable listing data on grid and list view"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5728
+msgid "Enable/Disable bedrooms on grid and list view"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5738
+msgid "Enable/Disable baths on grid and list view"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5748
+msgid "Enable/Disable guests on grid and list view"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5758
+msgid "Enable/Disable listing type on grid and list view"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5766
+msgid "Host Name"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5768
+msgid "Enable/Disable the host name on grid and list view"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5778
+msgid "Enable/Disable the rating information on grid and list view"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5786
+msgid "Compare & Favorite"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5788
+msgid "Enable/Disable the photo count information on grid and list view"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5797
+msgid "Taxonomies Layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5799
+msgid ""
+"Select taxonomies ( type, room type, city, state, country, area etc ) pages "
+"layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5805
+msgid "Page Layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5827
+msgid "Select the listings layout for the taxonomy pages"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5840
+msgid "Select the taxonomy page default display order."
+msgstr ""
+
+#: ../framework/options/homey-options.php:5855
+msgid "Number of listings to display"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5868
+msgid "Google Map Settings"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5876
+msgid "Google Maps API KEY"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5877
+msgid ""
+"Enter your google maps api key. You can get it from <a target=\"_blank\" "
+"href=\"https://developers.google.com/maps/documentation/javascript/"
+"tutorial#api_key\">here</a>."
+msgstr ""
+
+#: ../framework/options/homey-options.php:5884
+msgid "Google Maps SSL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5885
+msgid "Use Google Maps with SSL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5896
+msgid "Marker Type"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5897
+msgid "Select the marker type for Google Map"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5899
+msgid "Marker Icon"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5900
+msgid "Price Pins"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5957
+msgid "Cluster"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5966
+msgid "Pin Cluster"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5967
+msgid "Use a pin cluster on Google Map"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5978
+msgid "Cluster Icon"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5981
+msgid "Upload the map cluster icon."
+msgstr ""
+
+#: ../framework/options/homey-options.php:5987
+msgid "Cluster Zoom Level"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5989
+msgid "Enter the maximum zoom level for cluster to appear. Default 12"
+msgstr ""
+
+#: ../framework/options/homey-options.php:5998
+msgid "Single Listing Map"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6007
+msgid "Pin or Circle"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6008
+msgid "Select what to show on map, Marker or Circle pin"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6010
+msgid "Marker Pin"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6011
+msgid "Circle"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6018
+msgid "Single Listing Map Zoom"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6020
+msgid "Enter a number from 1 to 20"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6028
+msgid "Map Style"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6037
+msgid "Style for Google Map"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6038
+msgid "Use https://snazzymaps.com/ to create styles"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6052
+#: ../framework/options/homey-options.php:6070
+msgid "Google reCaptcha"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6060
+msgid "Enable reCaptcha for contact forms?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6072
+msgid ""
+"<p>If you do not have keys already then visit <kbd>\n"
+"            <a href = \"https://www.google.com/recaptcha/admin\">\n"
+"                https://www.google.com/recaptcha/admin</a></kbd> to generate "
+"them.\n"
+"        Set the respective keys in <kbd>Site Key</kbd> and\n"
+"        <kbd>Secret Key</kbd></p>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6081
+msgid "Site Key"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6082
+msgid "Enter the Google reCaptha site key."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6089
+msgid "Secret Key"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6090
+msgid "Enter the Google reCaptha secret key."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6100
+msgid "Invoice Options"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6109
+msgid "Company Logo"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6112
+msgid "Upload the company logo for invoices."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6119
+msgid "Enter the company name"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6124
+msgid "Company Address"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6129
+msgid "Enter the company address"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6141
+msgid "Additional Info"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6152
+msgid "Email Management"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6154
+msgid ""
+"Global variables: {site_url} as website url, {site_title} as website name, "
+"{user_email} as user_email, {user_login} as username"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6160
+msgid "HTML Emails?"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6162
+msgid ""
+"Enable/Disable HTML emails. If enabled then system will allow you to add "
+"HTML code in the email templates"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6173
+msgid "<span class=\"font24\">Email Header</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6180
+msgid "Enable Email Header."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6182
+msgid "Enable/Disable the email header"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6195
+msgid "Upload the logo for the email header"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6200
+msgid "Header Background Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6205
+msgid "Select the header background color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6213
+msgid "<span class=\"font24\">Email Footer</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6220
+msgid "Enable Email Footer."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6222
+msgid "Enable/Disable the email footer"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6230
+msgid "Footer background Color"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6241
+msgid "Footer Content"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6263
+msgid "<span class=\"font24\">Social Link 1</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6272
+#: ../framework/options/homey-options.php:6300
+#: ../framework/options/homey-options.php:6327
+#: ../framework/options/homey-options.php:6354
+msgid "Social Icon"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6273
+#: ../framework/options/homey-options.php:6301
+#: ../framework/options/homey-options.php:6330
+#: ../framework/options/homey-options.php:6358
+msgid "Upload a social icon image"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6280
+#: ../framework/options/homey-options.php:6308
+#: ../framework/options/homey-options.php:6335
+#: ../framework/options/homey-options.php:6363
+msgid "Link"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6281
+#: ../framework/options/homey-options.php:6309
+#: ../framework/options/homey-options.php:6336
+#: ../framework/options/homey-options.php:6364
+msgid "Enter the social media profile URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6291
+msgid "<span class=\"font24\">Social Link 2</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6318
+msgid "<span class=\"font24\">Social Link 3</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6346
+msgid "<span class=\"font24\">Social Link 4</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6372
+msgid "New Register"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6383
+msgid "<span class=\"font24\">New Registered User Notification</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6384
+#: ../framework/options/homey-options.php:6421
+msgid ""
+"{user_login} as username, {user_password} as user password, "
+"{user_email_register} as new user email, {profile_url}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6390
+#: ../framework/options/homey-options.php:6427
+#: ../framework/options/homey-options.php:6467
+#: ../framework/options/homey-options.php:6499
+#: ../framework/options/homey-options.php:6531
+#: ../framework/options/homey-options.php:6564
+#: ../framework/options/homey-options.php:6597
+#: ../framework/options/homey-options.php:6630
+msgid "Email Subject"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6391
+#: ../framework/options/homey-options.php:6428
+#: ../framework/options/homey-options.php:6468
+#: ../framework/options/homey-options.php:6500
+#: ../framework/options/homey-options.php:6532
+#: ../framework/options/homey-options.php:6565
+#: ../framework/options/homey-options.php:6598
+#: ../framework/options/homey-options.php:6631
+msgid "Enter the email subject"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6392
+msgid "Your username and password on {site_title}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6397
+#: ../framework/options/homey-options.php:6434
+#: ../framework/options/homey-options.php:6474
+#: ../framework/options/homey-options.php:6506
+#: ../framework/options/homey-options.php:6538
+#: ../framework/options/homey-options.php:6571
+#: ../framework/options/homey-options.php:6604
+#: ../framework/options/homey-options.php:6637
+msgid "Email Content"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6420
+msgid "<span class=\"font24\">New Registered Admin Notification</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6429
+msgid "New User Registration on {site_title}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6451
+msgid "Global variables {reservation_detail_url}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6460
+msgid "<span class=\"font24\">New Reservation Received</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6469
+msgid "New Reservation Request at {site_title}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6492
+msgid "<span class=\"font24\">Confirm Reservation</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6501
+msgid "Reservation Confirmed on {site_title}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6524
+msgid "<span class=\"font24\">Reservation Booked User</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6533
+#: ../framework/options/homey-options.php:6566
+msgid "Reservation Booked on {site_title}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6557
+msgid "<span class=\"font24\">Reservation Booked Admin</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6590
+msgid "<span class=\"font24\">Reservation Declined</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6599
+msgid "Reservation Declined on {site_title}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6623
+msgid "<span class=\"font24\">Reservation Cancelled</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6632
+msgid "Reservation Cancelled on {site_title}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6654 ../localization.php:430
+msgid "Upgrade to Featured"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6665
+msgid "<span class=\"font24\">Upgrade to Featured</span>"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6666
+msgid ""
+"you can use {invoice_no} as invoice number, {listing_title} as listing title "
+"and {listing_id} as listing id"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6672
+msgid "Subject for Featured Submission"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6673
+#: ../framework/options/homey-options.php:6700
+msgid "Email subject for featured submission per listing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6675
+msgid "New featured upgrade on {site_url}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6680
+msgid "Content for Featured Submission"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6681
+#: ../framework/options/homey-options.php:6708
+msgid "Email content for featured submission per listing"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6683
+#: ../framework/options/homey-options.php:6710
+msgid ""
+"Hi there,\n"
+"You have a new featured submission on  {site_url}!\n"
+"Listing Title: {listing_title}\n"
+"Listing ID:  {listing_id}\n"
+"The invoice number is: {invoice_no}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6699
+msgid "Subject for Admin - Featured Submission"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6702
+msgid "New featured submission on {site_url}"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6707
+msgid "Content for Admin - Featured Submission"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6730
+msgid "Page 404"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6746
+msgid "Page Description"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6757
+msgid "Optimizations"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6765
+msgid "Minify JS"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6766
+msgid "Use minify version of js files"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6768
+#: ../framework/options/homey-options.php:6778
+#: ../framework/options/homey-options.php:6788
+#: ../framework/options/homey-options.php:6798
+msgid "On"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6769
+#: ../framework/options/homey-options.php:6779
+#: ../framework/options/homey-options.php:6789
+#: ../framework/options/homey-options.php:6799
+msgid "Off"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6775
+msgid "Minify CSS"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6776
+msgid ""
+"By default the theme loads a style.css that is not minified. If you wish you "
+"can enable this setting to instead load a single style-min.css file with the "
+"code minified. If you are using a child theme you will have to change the "
+"@import from pointing to style.css to point to style-min.css"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6785
+msgid "Remove Version Parameter From JS & CSS Files"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6786
+msgid ""
+"Most scripts and style-sheets called by WordPress include a query string "
+"identifying the version. This can cause issues with caching and such, which "
+"will result in less than optimal load times. You can toggle this setting on "
+"to remove the query string from such strings."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6795
+msgid "JPEG 100% Quality"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6796
+msgid ""
+"By default images cropped with WordPress are resized/cropped at 90% quality. "
+"Enable this setting to set all JPEGs to 100% quality."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6809
+msgid "Custom Code"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6817
+msgid "CSS Code"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6818
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6827
+#: ../framework/options/homey-options.php:6837
+msgid "Custom JS Code"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6828
+msgid "Custom JavaScript/Analytics Header."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6838
+msgid "Custom JavaScript/Analytics Footer."
+msgstr ""
+
+#: ../framework/options/homey-options.php:6859
+msgid "Footer Layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6861
+msgid "Select the footer layout"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6889
+msgid "Copyright"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6890
+msgid "Enter the copyright text"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6896
+msgid "Social Media on Footer"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6897
+msgid "Enable/Disable the social media on the footer"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6908
+msgid "Enter your Facebook profile URL"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6976
+msgid "GDPR Agreement"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6986
+msgid "GDPR for contact forms and register"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6992
+msgid "GDPR / Privacy Policy for forms"
+msgstr ""
+
+#: ../framework/options/homey-options.php:6993
+msgid ""
+"Enable/Disable GDPR or privay Policy checkbox for contact forms, register "
+"form"
+msgstr ""
+
+#: ../framework/options/homey-options.php:7002
+msgid "GDPR / Privacy Policy Content"
+msgstr ""
+
+#: ../framework/options/homey-options.php:7003
+msgid "Add GDPR / Privacy Policy checkbox content and link"
+msgstr ""
+
+#: ../framework/options/homey-options.php:7011
+msgid "GDPR / Privacy Policy Validation Message"
+msgstr ""
+
+#: ../framework/options/homey-options.php:7012
+msgid "Add GDPR / Privacy Policy checkbox validation message"
+msgstr ""
+
+#: ../framework/options/homey-options.php:7022
+msgid "GDPR for profile"
+msgstr ""
+
+#: ../framework/options/homey-options.php:7028
+msgid "Enable/Disable GRPR on profile page."
+msgstr ""
+
+#: ../framework/options/homey-options.php:7038
+msgid "GDPR Label."
+msgstr ""
+
+#: ../framework/options/homey-options.php:7047
+msgid "GDPR Description"
+msgstr ""
+
+#: ../framework/vc_extend.php:121 ../framework/vc_extend.php:384
+msgid "Default"
+msgstr ""
+
+#: ../framework/vc_extend.php:124 ../framework/vc_extend.php:387
+msgid "Date (Old to New)"
+msgstr ""
+
+#: ../framework/vc_extend.php:125 ../framework/vc_extend.php:388
+msgid "Date (New to Old)"
+msgstr ""
+
+#: ../framework/vc_extend.php:126
+msgid "Featured on Top"
+msgstr ""
+
+#: ../framework/vc_extend.php:127
+msgid "Random"
+msgstr ""
+
+#: ../framework/vc_extend.php:134
+msgid "Section Title"
+msgstr ""
+
+#: ../framework/vc_extend.php:136
+msgid "Create seation titles between elements"
+msgstr ""
+
+#: ../framework/vc_extend.php:147 ../framework/vc_extend.php:230
+#: ../framework/vc_extend.php:1036
+msgid "Title:"
+msgstr ""
+
+#: ../framework/vc_extend.php:148
+msgid "Enter the section title"
+msgstr ""
+
+#: ../framework/vc_extend.php:155
+msgid "Sub Title:"
+msgstr ""
+
+#: ../framework/vc_extend.php:156
+msgid "Enter the section sub-title"
+msgstr ""
+
+#: ../framework/vc_extend.php:163
+msgid "Alignement:"
+msgstr ""
+
+#: ../framework/vc_extend.php:170
+msgid "Color Scheme"
+msgstr ""
+
+#: ../framework/vc_extend.php:177
+msgid "Font Size for Title:"
+msgstr ""
+
+#: ../framework/vc_extend.php:178
+msgid "Enter the font size for section title"
+msgstr ""
+
+#: ../framework/vc_extend.php:186
+msgid "Line Height for Title:"
+msgstr ""
+
+#: ../framework/vc_extend.php:187
+msgid "Enter the line height for section title"
+msgstr ""
+
+#: ../framework/vc_extend.php:196
+msgid "Font Size for Sub Title:"
+msgstr ""
+
+#: ../framework/vc_extend.php:197
+msgid "Enter the font size for section sub title"
+msgstr ""
+
+#: ../framework/vc_extend.php:205
+msgid "Line Height for Sub Title:"
+msgstr ""
+
+#: ../framework/vc_extend.php:206
+msgid "Enter the line height for section sub title"
+msgstr ""
+
+#: ../framework/vc_extend.php:241
+msgid "Empty Space"
+msgstr ""
+
+#: ../framework/vc_extend.php:246
+msgid "By Favethemes"
+msgstr ""
+
+#: ../framework/vc_extend.php:251
+msgid "Height of the space (px)"
+msgstr ""
+
+#: ../framework/vc_extend.php:254
+msgid ""
+"Set height of the space. You can add white space between elements to "
+"separate them beautifully."
+msgstr ""
+
+#: ../framework/vc_extend.php:277 ../framework/vc_extend.php:707
+msgid "Listing Style"
+msgstr ""
+
+#: ../framework/vc_extend.php:278
+msgid "Choose grid/list/card style, default will be list view"
+msgstr ""
+
+#: ../framework/vc_extend.php:285 ../framework/vc_extend.php:446
+msgid "Listing type filter:"
+msgstr ""
+
+#: ../framework/vc_extend.php:298 ../framework/vc_extend.php:459
+msgid "Room type filter:"
+msgstr ""
+
+#: ../framework/vc_extend.php:311 ../framework/vc_extend.php:472
+msgid "Listing country filter:"
+msgstr ""
+
+#: ../framework/vc_extend.php:324 ../framework/vc_extend.php:485
+msgid "Listing state filter:"
+msgstr ""
+
+#: ../framework/vc_extend.php:337 ../framework/vc_extend.php:498
+msgid "Listing city filter:"
+msgstr ""
+
+#: ../framework/vc_extend.php:350 ../framework/vc_extend.php:511
+msgid "Listing area filter:"
+msgstr ""
+
+#: ../framework/vc_extend.php:364 ../framework/vc_extend.php:525
+msgid "- Any -"
+msgstr ""
+
+#: ../framework/vc_extend.php:364 ../framework/vc_extend.php:525
+msgid "Without Featured"
+msgstr ""
+
+#: ../framework/vc_extend.php:364 ../framework/vc_extend.php:525
+msgid "Only Featured"
+msgstr ""
+
+#: ../framework/vc_extend.php:365
+msgid "Featured Listings:"
+msgstr ""
+
+#: ../framework/vc_extend.php:366 ../framework/vc_extend.php:527
+msgid ""
+"You can make a post featured by clicking the featured listings checkbox "
+"while add/edit post"
+msgstr ""
+
+#: ../framework/vc_extend.php:375
+msgid "Limit listing number:"
+msgstr ""
+
+#: ../framework/vc_extend.php:382 ../framework/vc_extend.php:545
+#: ../localization.php:23
+msgid "Sort By"
+msgstr ""
+
+#: ../framework/vc_extend.php:389
+msgid "Featured on top"
+msgstr ""
+
+#: ../framework/vc_extend.php:398 ../framework/vc_extend.php:563
+msgid "Offset listings:"
+msgstr ""
+
+#: ../framework/vc_extend.php:411
+msgid "Show load more pagination"
+msgstr ""
+
+#: ../framework/vc_extend.php:423
+msgid "Listings Carousel"
+msgstr ""
+
+#: ../framework/vc_extend.php:438 ../framework/vc_extend.php:673
+msgid "Listing style"
+msgstr ""
+
+#: ../framework/vc_extend.php:439 ../framework/vc_extend.php:674
+#: ../framework/vc_extend.php:708
+msgid "Select grid/card style, the default style will be list view"
+msgstr ""
+
+#: ../framework/vc_extend.php:526
+msgid "Featured listings:"
+msgstr ""
+
+#: ../framework/vc_extend.php:536 ../framework/vc_extend.php:725
+msgid "Listing IDs:"
+msgstr ""
+
+#: ../framework/vc_extend.php:537
+msgid "Enter the listings ids comma separated. Example 12,305,34"
+msgstr ""
+
+#: ../framework/vc_extend.php:555
+msgid "Limit listings number:"
+msgstr ""
+
+#: ../framework/vc_extend.php:572
+msgid "Slides to show:"
+msgstr ""
+
+#: ../framework/vc_extend.php:587
+msgid "Slides to scroll:"
+msgstr ""
+
+#: ../framework/vc_extend.php:599
+msgid "Infinite scroll:"
+msgstr ""
+
+#: ../framework/vc_extend.php:611
+msgid "Autoplay:"
+msgstr ""
+
+#: ../framework/vc_extend.php:620
+msgid "Autoplay speed:"
+msgstr ""
+
+#: ../framework/vc_extend.php:632
+msgid "Next/Prev navigation:"
+msgstr ""
+
+#: ../framework/vc_extend.php:644
+msgid "Dots navigation:"
+msgstr ""
+
+#: ../framework/vc_extend.php:660
+msgid "Listing by ID"
+msgstr ""
+
+#: ../framework/vc_extend.php:661
+msgid "Show single listing by id"
+msgstr ""
+
+#: ../framework/vc_extend.php:682
+msgid "Listing ID:"
+msgstr ""
+
+#: ../framework/vc_extend.php:683
+msgid "Enter the listing ID. Example 305"
+msgstr ""
+
+#: ../framework/vc_extend.php:694
+msgid "Listings by IDs"
+msgstr ""
+
+#: ../framework/vc_extend.php:695
+msgid "Show listings by IDs"
+msgstr ""
+
+#: ../framework/vc_extend.php:716
+msgid "Columns in Row:"
+msgstr ""
+
+#: ../framework/vc_extend.php:726
+msgid "Enter Listings ids comma separated. Ex 12,305,34"
+msgstr ""
+
+#: ../framework/vc_extend.php:738
+msgid "Homey Grids"
+msgstr ""
+
+#: ../framework/vc_extend.php:752
+msgid "Choose grid:"
+msgstr ""
+
+#: ../framework/vc_extend.php:759
+msgid "Choose Taxonomy"
+msgstr ""
+
+#: ../framework/vc_extend.php:764
+msgid "Listing Types"
+msgstr ""
+
+#: ../framework/vc_extend.php:788
+msgid "Listing Country"
+msgstr ""
+
+#: ../framework/vc_extend.php:800
+msgid "Listing States"
+msgstr ""
+
+#: ../framework/vc_extend.php:812
+msgid "Listing Cities"
+msgstr ""
+
+#: ../framework/vc_extend.php:825
+msgid "Listing Area"
+msgstr ""
+
+#: ../framework/vc_extend.php:840
+msgid "Show Child:"
+msgstr ""
+
+#: ../framework/vc_extend.php:847 ../framework/vc_extend.php:993
+#: ../framework/vc_extend.php:1121
+msgid "Order By:"
+msgstr ""
+
+#: ../framework/vc_extend.php:854 ../framework/vc_extend.php:1001
+#: ../framework/vc_extend.php:1129
+msgid "Order:"
+msgstr ""
+
+#: ../framework/vc_extend.php:861
+msgid "Hide Empty:"
+msgstr ""
+
+#: ../framework/vc_extend.php:868
+msgid "Number of Items to Show:"
+msgstr ""
+
+#: ../framework/vc_extend.php:880
+msgid "Blog Posts Grid"
+msgstr ""
+
+#: ../framework/vc_extend.php:893 ../framework/vc_extend.php:934
+msgid "Category Filter:"
+msgstr ""
+
+#: ../framework/vc_extend.php:901 ../framework/vc_extend.php:942
+msgid "Offset"
+msgstr ""
+
+#: ../framework/vc_extend.php:909 ../framework/vc_extend.php:950
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../framework/vc_extend.php:921
+msgid "Blog Posts Carousel"
+msgstr ""
+
+#: ../framework/vc_extend.php:963
+msgid "Partners"
+msgstr ""
+
+#: ../framework/vc_extend.php:976 ../framework/vc_extend.php:1104
+msgid "Limit:"
+msgstr ""
+
+#: ../framework/vc_extend.php:984 ../framework/vc_extend.php:1112
+msgid "Offset Posts:"
+msgstr ""
+
+#: ../framework/vc_extend.php:1014
+msgid "Promo Box"
+msgstr ""
+
+#: ../framework/vc_extend.php:1028
+msgid "Image:"
+msgstr ""
+
+#: ../framework/vc_extend.php:1043
+msgid "Content:"
+msgstr ""
+
+#: ../framework/vc_extend.php:1051
+msgid "URL:"
+msgstr ""
+
+#: ../framework/vc_extend.php:1059
+msgid "URL Text:"
+msgstr ""
+
+#: ../framework/vc_extend.php:1073
+msgid "Testimonials"
+msgstr ""
+
+#: ../framework/vc_extend.php:1087
+msgid "Testimonials Type:"
+msgstr ""
+
+#: ../framework/vc_extend.php:1095
+msgid "Columns:"
+msgstr ""
+
+#: ../framework/vc_extend.php:1211
+msgid ""
+"Please set an icon. The entire list of icons can be found at <a href='http://"
+"fortawesome.github.io/Font-Awesome/icons/' target='_blank'>FontAwesome "
+"project page</a>. For example, if an icon is named 'fa-angle-right', the "
+"value you have to add inside the field is 'angle-right'."
+msgstr ""
+
+#: ../framework/vc_extend.php:1292
+msgid "- All -"
+msgstr ""
+
+#: ../framework/vc_extend.php:1308
+msgid "Toggle Select"
+msgstr ""
+
+#: ../framework/vc_extend.php:1312
+msgid "There are no taxonomy found"
+msgstr ""
+
+#: ../functions.php:56
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:57
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:245
+msgid "Widgets in this area will be shown in the default sidebar."
+msgstr ""
+
+#: ../functions.php:254
+msgid "Widgets in this area will be shown in the page sidebar."
+msgstr ""
+
+#: ../functions.php:263
+msgid "Widgets in this area will be shown in listings sidebar."
+msgstr ""
+
+#: ../functions.php:273
+msgid "Widgets in this area will be shown in the blog sidebar."
+msgstr ""
+
+#: ../functions.php:281
+msgid "Custom Sidebar 1"
+msgstr ""
+
+#: ../functions.php:283 ../functions.php:293 ../functions.php:303
+msgid "This sidebar can be assigned to any page when add/edit page."
+msgstr ""
+
+#: ../functions.php:291
+msgid "Custom Sidebar 2"
+msgstr ""
+
+#: ../functions.php:301
+msgid "Custom Sidebar 3"
+msgstr ""
+
+#: ../functions.php:311
+msgid "Footer Area 1"
+msgstr ""
+
+#: ../functions.php:313
+msgid "Widgets in this area will be show in footer column one"
+msgstr ""
+
+#: ../functions.php:320
+msgid "Footer Area 2"
+msgstr ""
+
+#: ../functions.php:322
+msgid "Widgets in this area will be show in footer column two"
+msgstr ""
+
+#: ../functions.php:329
+msgid "Footer Area 3"
+msgstr ""
+
+#: ../functions.php:331
+msgid "Widgets in this area will be show in footer column three"
+msgstr ""
+
+#: ../functions.php:338
+msgid "Footer Area 4"
+msgstr ""
+
+#: ../functions.php:340
+msgid "Widgets in this area will be show in footer column four"
+msgstr ""
+
+#: ../inc/register-scripts.php:153 ../inc/register-scripts.php:298
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: ../inc/register-scripts.php:154 ../inc/register-scripts.php:299
+#: ../inc/register-scripts.php:341 ../localization.php:204
+msgid "Processing, Please wait..."
+msgstr ""
+
+#: ../inc/register-scripts.php:170
+msgid "Connecting to paypal, Please wait... "
+msgstr ""
+
+#: ../inc/register-scripts.php:171
+msgid "Updating Currency, Please wait..."
+msgstr ""
+
+#: ../inc/register-scripts.php:249
+msgid "We didn't find any results"
+msgstr ""
+
+#: ../inc/register-scripts.php:284 ../inc/register-scripts.php:334
+msgid "Valid file formats"
+msgstr ""
+
+#: ../inc/register-scripts.php:285
+msgid "Please enter only digits"
+msgstr ""
+
+#: ../inc/register-scripts.php:300
+msgid "Submitting, Please wait..."
+msgstr ""
+
+#: ../inc/register-scripts.php:320
+msgid "Geocode was not successful for the following reason"
+msgstr ""
+
+#: ../inc/register-scripts.php:342
+msgid "Please Agree with GDPR"
+msgstr ""
+
+#: ../inc/register-scripts.php:343
+msgid "Sending info"
+msgstr ""
+
+#: ../localization.php:22
+msgid "Contact us"
+msgstr ""
+
+#: ../localization.php:24
+msgid "Are you kidding?"
+msgstr ""
+
+#: ../localization.php:25
+msgid "you don\\'t have the right to see this"
+msgstr ""
+
+#: ../localization.php:26
+msgid "About this listing"
+msgstr ""
+
+#: ../localization.php:28
+msgid "Accommodates"
+msgstr ""
+
+#: ../localization.php:29
+msgid "Opening Hours"
+msgstr ""
+
+#: ../localization.php:30
+msgid "Mon - Fri"
+msgstr ""
+
+#: ../localization.php:31
+msgid "Sat"
+msgstr ""
+
+#: ../localization.php:32
+msgid "Sun"
+msgstr ""
+
+#: ../localization.php:34 ../localization.php:515
+#: ../template/template-compare.php:124
+msgid "Price"
+msgstr ""
+
+#: ../localization.php:35
+msgid "ID"
+msgstr ""
+
+#: ../localization.php:36 ../localization.php:444
+msgid "Date"
+msgstr ""
+
+#: ../localization.php:37 ../single-listing/what-nearby.php:38
+#: ../template-parts/search/search-guests.php:25
+msgid "Pets"
+msgstr ""
+
+#: ../localization.php:38
+msgid "Subtotal"
+msgstr ""
+
+#: ../localization.php:39
+msgid "Thumbnail"
+msgstr ""
+
+#: ../localization.php:40 ../localization.php:443
+msgid "Actions"
+msgstr ""
+
+#: ../localization.php:42
+msgid "Check In"
+msgstr ""
+
+#: ../localization.php:43
+msgid "Check Out"
+msgstr ""
+
+#: ../localization.php:45
+msgid "Check-in"
+msgstr ""
+
+#: ../localization.php:46
+msgid "Check-out"
+msgstr ""
+
+#: ../localization.php:47
+msgid "Check-in After"
+msgstr ""
+
+#: ../localization.php:48
+msgid "Check-out Before"
+msgstr ""
+
+#: ../localization.php:52
+msgid "Rooms"
+msgstr ""
+
+#: ../localization.php:53
+msgid "Full"
+msgstr ""
+
+#: ../localization.php:54
+msgid "Half Baths"
+msgstr ""
+
+#: ../localization.php:55
+msgid "Beds"
+msgstr ""
+
+#: ../localization.php:56
+msgid "Baths"
+msgstr ""
+
+#: ../localization.php:57 ../localization.php:175 ../localization.php:503
+msgid "Guests"
+msgstr ""
+
+#: ../localization.php:58 ../localization.php:176 ../localization.php:504
+msgid "Guest"
+msgstr ""
+
+#: ../localization.php:59 ../localization.php:64
+msgid "Compare"
+msgstr ""
+
+#: ../localization.php:60 ../localization.php:63
+msgid "Save to Favorite"
+msgstr ""
+
+#: ../localization.php:61
+msgid "Add to Favorite"
+msgstr ""
+
+#: ../localization.php:62
+msgid "Remove from Favorite"
+msgstr ""
+
+#: ../localization.php:65
+msgid "Remove from compare"
+msgstr ""
+
+#: ../localization.php:66
+msgid "Maximum item compare are 4"
+msgstr ""
+
+#: ../localization.php:67 ../localization.php:360
+msgid "Excellent"
+msgstr ""
+
+#: ../localization.php:68
+msgid "Print this page"
+msgstr ""
+
+#: ../localization.php:70
+msgid "Name"
+msgstr ""
+
+#: ../localization.php:71 ../localization.php:487
+#: ../template-parts/dashboard/profile/contact.php:33
+#: ../template-parts/modal-window-register.php:53
+msgid "Email"
+msgstr ""
+
+#: ../localization.php:72 ../localization.php:489
+#: ../template-parts/dashboard/profile/contact.php:39
+msgid "Phone"
+msgstr ""
+
+#: ../localization.php:73 ../template-parts/dashboard/messages/messages.php:83
+msgid "Message"
+msgstr ""
+
+#: ../localization.php:75
+msgid "Hosted by"
+msgstr ""
+
+#: ../localization.php:81
+msgid "What kind of place do you want to list?"
+msgstr ""
+
+#: ../localization.php:84
+msgid "Enter the listing title"
+msgstr ""
+
+#: ../localization.php:87
+msgid "Enter the listing description"
+msgstr ""
+
+#: ../localization.php:89
+msgid "Number of bedrooms"
+msgstr ""
+
+#: ../localization.php:90
+msgid "Enter number of bedrooms"
+msgstr ""
+
+#: ../localization.php:92
+msgid "Enter number of rooms"
+msgstr ""
+
+#: ../localization.php:93
+msgid "Number of guest"
+msgstr ""
+
+#: ../localization.php:94
+msgid "Enter number of guest"
+msgstr ""
+
+#: ../localization.php:95 ../localization.php:171
+msgid "Number of beds"
+msgstr ""
+
+#: ../localization.php:96
+msgid "Enter number of beds"
+msgstr ""
+
+#: ../localization.php:97
+msgid "Number of bathrooms"
+msgstr ""
+
+#: ../localization.php:98
+msgid "Enter number of bathrooms"
+msgstr ""
+
+#: ../localization.php:99
+msgid "Type of listing"
+msgstr ""
+
+#: ../localization.php:100
+#: ../template-parts/dashboard/submit-listing/information.php:82
+msgid "Select listing Type"
+msgstr ""
+
+#: ../localization.php:102
+msgid "Enter the size. Only numbers"
+msgstr ""
+
+#: ../localization.php:105
+msgid "Enter the unit of measure. Ex. SqFt"
+msgstr ""
+
+#: ../localization.php:107 ../localization.php:518
+msgid "Amenities"
+msgstr ""
+
+#: ../localization.php:108 ../localization.php:519
+msgid "Facilities"
+msgstr ""
+
+#: ../localization.php:111 ../template-parts/dashboard/profile/address.php:14
+#: ../template-parts/dashboard/sidebar-listing.php:94
+msgid "Address"
+msgstr ""
+
+#: ../localization.php:112
+msgid "Enter the listing address"
+msgstr ""
+
+#: ../localization.php:113
+msgid ""
+"If you do not enter any address, then the map will not show on listing "
+"detail page."
+msgstr ""
+
+#: ../localization.php:115
+msgid "Apt, Suite (Optional)"
+msgstr ""
+
+#: ../localization.php:116 ../template-parts/dashboard/profile/address.php:28
+msgid "Ex. #123"
+msgstr ""
+
+#: ../localization.php:118
+msgid "Nightly"
+msgstr ""
+
+#: ../localization.php:119
+msgid "Enter price for 1 night"
+msgstr ""
+
+#: ../localization.php:120
+msgid "Weekends"
+msgstr ""
+
+#: ../localization.php:121 ../localization.php:237 ../localization.php:238
+msgid "Enter the unit price for a single day"
+msgstr ""
+
+#: ../localization.php:123
+msgid "Weekly (7d+)"
+msgstr ""
+
+#: ../localization.php:124
+msgid "Monthly (30d+)"
+msgstr ""
+
+#: ../localization.php:125 ../localization.php:349
+msgid "Security deposit"
+msgstr ""
+
+#: ../localization.php:126
+msgid "Enter price for security deposit"
+msgstr ""
+
+#: ../localization.php:127
+msgid "Tax %"
+msgstr ""
+
+#: ../localization.php:128
+msgid "Enter tax percentage (only number)"
+msgstr ""
+
+#: ../localization.php:129 ../localization.php:130 ../localization.php:346
+msgid "Additional guests"
+msgstr ""
+
+#: ../localization.php:131
+msgid "Enter the price for 1 additional guest"
+msgstr ""
+
+#: ../localization.php:132
+msgid "Allow additional guests"
+msgstr ""
+
+#: ../localization.php:133 ../localization.php:347
+msgid "Cleaning fee"
+msgstr ""
+
+#: ../localization.php:134
+msgid "Enter the price for cleaning fee"
+msgstr ""
+
+#: ../localization.php:135
+msgid "Cleaning fee type"
+msgstr ""
+
+#: ../localization.php:136 ../localization.php:348
+msgid "City fee"
+msgstr ""
+
+#: ../localization.php:137
+msgid "Enter the price for city fee"
+msgstr ""
+
+#: ../localization.php:138
+msgid "City fee type"
+msgstr ""
+
+#: ../localization.php:140
+msgid "Per stay"
+msgstr ""
+
+#: ../localization.php:141
+msgid "Minimum number of days"
+msgstr ""
+
+#: ../localization.php:142
+msgid "Maximum number of days"
+msgstr ""
+
+#: ../localization.php:143
+msgid "Setup Custom Period Prices"
+msgstr ""
+
+#: ../localization.php:144
+msgid "Custom Period Prices"
+msgstr ""
+
+#: ../localization.php:146 ../localization.php:506
+msgid "Children"
+msgstr ""
+
+#: ../localization.php:148
+msgid "Minimum days of a booking"
+msgstr ""
+
+#: ../localization.php:149
+msgid "Enter the minimum days of a booking (Only number)"
+msgstr ""
+
+#: ../localization.php:150
+msgid "Maximum days of a booking"
+msgstr ""
+
+#: ../localization.php:152
+msgid "Enter the maximum days of booking (Only number)"
+msgstr ""
+
+#: ../localization.php:154
+msgid "Minimum days of a booking are"
+msgstr ""
+
+#: ../localization.php:155
+msgid "Maximum days of a booking are"
+msgstr ""
+
+#: ../localization.php:157
+msgid "Terms & rules"
+msgstr ""
+
+#: ../localization.php:158
+msgid "Smoking allowed"
+msgstr ""
+
+#: ../localization.php:159
+msgid "Pets allowed"
+msgstr ""
+
+#: ../localization.php:160
+msgid "Party allowed"
+msgstr ""
+
+#: ../localization.php:161
+msgid "Children allowed"
+msgstr ""
+
+#: ../localization.php:162
+msgid "Cancellation policy"
+msgstr ""
+
+#: ../localization.php:163
+msgid "Similar listings"
+msgstr ""
+
+#: ../localization.php:167
+msgid "Bedroom name"
+msgstr ""
+
+#: ../localization.php:168
+msgid "Ex. Master Room or Room 1"
+msgstr ""
+
+#: ../localization.php:169
+msgid "Number of guests"
+msgstr ""
+
+#: ../localization.php:170
+msgid "Enter the number of guests for this room"
+msgstr ""
+
+#: ../localization.php:172
+msgid "Enter the number of beds"
+msgstr ""
+
+#: ../localization.php:173
+msgid "Bed type"
+msgstr ""
+
+#: ../localization.php:174
+msgid "Enter the bed type"
+msgstr ""
+
+#: ../localization.php:177
+msgid "Add another room"
+msgstr ""
+
+#: ../localization.php:178
+msgid "Remove this room"
+msgstr ""
+
+#: ../localization.php:181
+msgid "Service name"
+msgstr ""
+
+#: ../localization.php:182
+msgid "Ex. Projection Screen"
+msgstr ""
+
+#: ../localization.php:183
+msgid "Service Price"
+msgstr ""
+
+#: ../localization.php:184
+msgid "Enter the service price"
+msgstr ""
+
+#: ../localization.php:185
+msgid "Service description"
+msgstr ""
+
+#: ../localization.php:186
+msgid "Enter the service description"
+msgstr ""
+
+#: ../localization.php:187
+msgid "Add another service"
+msgstr ""
+
+#: ../localization.php:188
+msgid "Remove this service"
+msgstr ""
+
+#: ../localization.php:190
+msgid "Show"
+msgstr ""
+
+#: ../localization.php:191
+msgid "Hide"
+msgstr ""
+
+#: ../localization.php:197
+msgid "Open Time"
+msgstr ""
+
+#: ../localization.php:198
+msgid "Close Time"
+msgstr ""
+
+#: ../localization.php:201
+msgid "Additional rules information"
+msgstr ""
+
+#: ../localization.php:202
+msgid "Additional rules information (Optional)"
+msgstr ""
+
+#: ../localization.php:203
+msgid "Please add content"
+msgstr ""
+
+#: ../localization.php:207
+msgid "The minimum stay is"
+msgstr ""
+
+#: ../localization.php:208
+msgid "The maximum stay is"
+msgstr ""
+
+#: ../localization.php:209
+msgid "night"
+msgstr ""
+
+#: ../localization.php:210
+msgid "nights"
+msgstr ""
+
+#: ../localization.php:211
+msgid "with weekend"
+msgstr ""
+
+#: ../localization.php:212
+msgid "with custom period"
+msgstr ""
+
+#: ../localization.php:213
+msgid "custom period & weekend"
+msgstr ""
+
+#: ../localization.php:215
+msgid "Pending"
+msgstr ""
+
+#: ../localization.php:217
+msgid "Pending id"
+msgstr ""
+
+#: ../localization.php:218
+msgid "Booking id"
+msgstr ""
+
+#: ../localization.php:219
+msgid "Calendar"
+msgstr ""
+
+#: ../localization.php:220
+msgid "You need to agree with terms and condition"
+msgstr ""
+
+#: ../localization.php:221
+msgid "please choose payment gateway"
+msgstr ""
+
+#: ../localization.php:225
+#, php-format
+msgid ""
+"<strong>Note:</strong> 15% of your booking will be taken as commission when "
+"the guest books."
+msgstr ""
+
+#: ../localization.php:227
+msgid "Instant booking"
+msgstr ""
+
+#: ../localization.php:228
+msgid "Allow instant booking for this place."
+msgstr ""
+
+#: ../localization.php:229
+msgid "Select the days to apply weekend pricing"
+msgstr ""
+
+#: ../localization.php:230
+msgid "Saturday and Sunday"
+msgstr ""
+
+#: ../localization.php:231
+msgid "Friday and Saturday"
+msgstr ""
+
+#: ../localization.php:232
+msgid "Friday, Saturday and Sunday"
+msgstr ""
+
+#: ../localization.php:242 ../template-parts/dashboard/profile/address.php:57
+msgid "Country"
+msgstr ""
+
+#: ../localization.php:243
+msgid "Enter the Country"
+msgstr ""
+
+#: ../localization.php:245 ../template-parts/dashboard/profile/address.php:39
+msgid "State"
+msgstr ""
+
+#: ../localization.php:246
+msgid "Enter the State"
+msgstr ""
+
+#: ../localization.php:249
+msgid "Enter the City"
+msgstr ""
+
+#: ../localization.php:251 ../localization.php:520
+msgid "Area"
+msgstr ""
+
+#: ../localization.php:252
+msgid "Enter the Area"
+msgstr ""
+
+#: ../localization.php:254 ../template-parts/dashboard/profile/address.php:45
+msgid "Zip Code"
+msgstr ""
+
+#: ../localization.php:255
+msgid "Enter your Zip Code"
+msgstr ""
+
+#: ../localization.php:257
+msgid "Do you want to show the listing map?"
+msgstr ""
+
+#: ../localization.php:258
+msgid "Drag and drop the pin on map to find exact location"
+msgstr ""
+
+#: ../localization.php:259
+msgid ""
+"Drag and drop the pin on map to find exact location or use address field "
+"above."
+msgstr ""
+
+#: ../localization.php:260
+msgid "Find the address on the map"
+msgstr ""
+
+#: ../localization.php:265
+msgid "Image Gallery"
+msgstr ""
+
+#: ../localization.php:266
+msgid ""
+"Drag and drop the images to customize the gallery order.<br>Click on the "
+"star icon to set the featured image"
+msgstr ""
+
+#: ../localization.php:267
+msgid "(Minimum size 1440 x 900 px)"
+msgstr ""
+
+#: ../localization.php:268
+msgid "Select and upload"
+msgstr ""
+
+#: ../localization.php:271
+msgid "Video URL"
+msgstr ""
+
+#: ../localization.php:272
+msgid ""
+"Enter the video link or URL. Supported formats: YouTube, Vimeo, SWF and MOV"
+msgstr ""
+
+#: ../localization.php:273
+msgid "Congratulations. Your listing has been submiited for approval."
+msgstr ""
+
+#: ../localization.php:274
+msgid "Your listing has been updated successfully."
+msgstr ""
+
+#: ../localization.php:275
+msgid "Your listing has been upgraded to featured successfully."
+msgstr ""
+
+#: ../localization.php:276
+msgid "Complete your listing"
+msgstr ""
+
+#: ../localization.php:278
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: ../localization.php:279
+msgid "Save as Draft"
+msgstr ""
+
+#: ../localization.php:280
+msgid "Continue"
+msgstr ""
+
+#: ../localization.php:282
+#: ../template-parts/dashboard/reservation/cancel-form.php:11
+#: ../template-parts/dashboard/reservation/decline-form.php:11
+#: ../template-parts/modal-window-forgot-password.php:17
+msgid "Submit"
+msgstr ""
+
+#: ../localization.php:285
+msgid "Review & Rating"
+msgstr ""
+
+#: ../localization.php:286 ../template-parts/dashboard/messages/detail.php:161
+#: ../template-parts/dashboard/messages/messages.php:88
+#: ../template-parts/dashboard/profile/photo.php:38
+msgid "Delete"
+msgstr ""
+
+#: ../localization.php:288 ../template-parts/dashboard/messages/messages.php:89
+#: ../template-parts/listing/layout-tool.php:2
+#: ../template-parts/map-controls.php:24
+msgid "View"
+msgstr ""
+
+#: ../localization.php:290 ../template-parts/dashboard/actions.php:3
+#: ../template/dashboard-invoices.php:144
+msgid "Print"
+msgstr ""
+
+#: ../localization.php:291 ../template-parts/dashboard/actions.php:6
+msgid "Back"
+msgstr ""
+
+#: ../localization.php:292
+msgid "Save"
+msgstr ""
+
+#: ../localization.php:293
+msgid "Reserve"
+msgstr ""
+
+#: ../localization.php:295
+msgid "By"
+msgstr ""
+
+#: ../localization.php:296
+msgid "by"
+msgstr ""
+
+#: ../localization.php:297
+msgid "Read More"
+msgstr ""
+
+#: ../localization.php:298
+msgid "Manage"
+msgstr ""
+
+#: ../localization.php:299
+msgid "Reserve a Period"
+msgstr ""
+
+#: ../localization.php:300
+msgid "You need to login in order to make a reservation"
+msgstr ""
+
+#: ../localization.php:301
+msgid "Security check failed"
+msgstr ""
+
+#: ../localization.php:303
+msgid "You are not the owner of this listing"
+msgstr ""
+
+#: ../localization.php:304
+msgid "This reservation is not belong to you."
+msgstr ""
+
+#: ../localization.php:305
+msgid ""
+"The instant booking page has not been created. Please contact the website "
+"administrator."
+msgstr ""
+
+#: ../localization.php:307
+msgid "First name required"
+msgstr ""
+
+#: ../localization.php:308
+msgid "Last name required"
+msgstr ""
+
+#: ../localization.php:309
+msgid "Phone number required"
+msgstr ""
+
+#: ../localization.php:310
+msgid "Ops! Something went wrong. Please try again."
+msgstr ""
+
+#: ../localization.php:311
+msgid "Sorry, this reservation does not belong to you."
+msgstr ""
+
+#: ../localization.php:313
+msgid "You don’t have any listing at this moment."
+msgstr ""
+
+#: ../localization.php:314
+msgid "There are no more listings available"
+msgstr ""
+
+#: ../localization.php:315
+msgid "You don’t have any favorite at this moment."
+msgstr ""
+
+#: ../localization.php:316
+msgid "You don’t have any reservation at this moment."
+msgstr ""
+
+#: ../localization.php:317
+msgid "You don’t have any upcoming reservation at this moment."
+msgstr ""
+
+#: ../localization.php:320
+msgid "Please add the review content"
+msgstr ""
+
+#: ../localization.php:322
+msgid "Your dates are not available"
+msgstr ""
+
+#: ../localization.php:323
+msgid "Your dates are available!"
+msgstr ""
+
+#: ../localization.php:324
+msgid "Booking request sent. Please wait for confirmation!"
+msgstr ""
+
+#: ../localization.php:325
+msgid "You have successfully reserve a period"
+msgstr ""
+
+#: ../localization.php:326
+msgid "Please fill all the fields"
+msgstr ""
+
+#: ../localization.php:327
+msgid "Please select arrive date"
+msgstr ""
+
+#: ../localization.php:328
+msgid "Please select depart date"
+msgstr ""
+
+#: ../localization.php:329
+msgid "Please choose guests"
+msgstr ""
+
+#: ../localization.php:330
+msgid "Your cannot book your own listing."
+msgstr ""
+
+#: ../localization.php:331
+msgid "You need renter or subscriber login to book listing. "
+msgstr ""
+
+#: ../localization.php:333
+msgid "Please select start date"
+msgstr ""
+
+#: ../localization.php:334
+msgid "Please select end date"
+msgstr ""
+
+#: ../localization.php:342 ../localization.php:441
+#: ../template-parts/dashboard/upgrade-featured.php:102
+msgid "Total"
+msgstr ""
+
+#: ../localization.php:343
+msgid "Includes taxes and fees"
+msgstr ""
+
+#: ../localization.php:344
+msgid "View details"
+msgstr ""
+
+#: ../localization.php:345
+msgid "Additional guest"
+msgstr ""
+
+#: ../localization.php:350
+msgid "Service fees"
+msgstr ""
+
+#: ../localization.php:352
+msgid "Payment due"
+msgstr ""
+
+#: ../localization.php:353
+msgid "Balance due of"
+msgstr ""
+
+#: ../localization.php:354
+msgid "to pay locally to the host"
+msgstr ""
+
+#: ../localization.php:356
+msgid "Poor"
+msgstr ""
+
+#: ../localization.php:357
+msgid "Fair"
+msgstr ""
+
+#: ../localization.php:358
+msgid "Average"
+msgstr ""
+
+#: ../localization.php:359
+msgid "Good"
+msgstr ""
+
+#: ../localization.php:362 ../single-listing/listing-nav.php:74
+msgid "Reviews"
+msgstr ""
+
+#: ../localization.php:363
+msgid "Verified Reviews - All reviews are from verified guests."
+msgstr ""
+
+#: ../localization.php:365
+msgid "Hi, I'm"
+msgstr ""
+
+#: ../localization.php:366
+msgid "Follow me"
+msgstr ""
+
+#: ../localization.php:367
+msgid "Host rating"
+msgstr ""
+
+#: ../localization.php:369
+msgid "Languages"
+msgstr ""
+
+#: ../localization.php:370
+#: ../template-parts/dashboard/profile/verification.php:20
+msgid "Verified"
+msgstr ""
+
+#: ../localization.php:371
+msgid "Profile Status"
+msgstr ""
+
+#: ../localization.php:372
+msgid "Contact the host"
+msgstr ""
+
+#: ../localization.php:373
+msgid "Request Information"
+msgstr ""
+
+#: ../localization.php:375
+msgid "Posts"
+msgstr ""
+
+#: ../localization.php:376 ../localization.php:534
+msgid "Reservations"
+msgstr ""
+
+#: ../localization.php:377
+msgid "View All"
+msgstr ""
+
+#: ../localization.php:378
+msgid "Upcoming Reservations"
+msgstr ""
+
+#: ../localization.php:379
+msgid "My Reservations"
+msgstr ""
+
+#: ../localization.php:380
+msgid "Incoming Messages"
+msgstr ""
+
+#: ../localization.php:381
+msgid "Recent Messages"
+msgstr ""
+
+#: ../localization.php:384
+msgid "View Profile"
+msgstr ""
+
+#: ../localization.php:385
+msgid "Make this listing as featured?"
+msgstr ""
+
+#: ../localization.php:386
+msgid "Featured"
+msgstr ""
+
+#: ../localization.php:387
+msgid "Rentals"
+msgstr ""
+
+#: ../localization.php:388
+msgid "Rental"
+msgstr ""
+
+#: ../localization.php:390 ../template-parts/map-controls.php:27
+msgid "Next"
+msgstr ""
+
+#: ../localization.php:391 ../template-parts/map-controls.php:26
+msgid "Prev"
+msgstr ""
+
+#: ../localization.php:394
+msgid "Your Name"
+msgstr ""
+
+#: ../localization.php:395
+msgid "Your Email"
+msgstr ""
+
+#: ../localization.php:396
+msgid "Your Comments"
+msgstr ""
+
+#: ../localization.php:397
+msgid "Post a Comment"
+msgstr ""
+
+#: ../localization.php:398
+msgid "Join The Discussion"
+msgstr ""
+
+#: ../localization.php:402
+msgid "UNDER REVIEW"
+msgstr ""
+
+#: ../localization.php:403
+msgid "NEW"
+msgstr ""
+
+#: ../localization.php:404
+msgid "AVAILABLE"
+msgstr ""
+
+#: ../localization.php:405
+msgid "BOOKED"
+msgstr ""
+
+#: ../localization.php:406
+msgid "DECLINED"
+msgstr ""
+
+#: ../localization.php:407
+msgid "CANCELLED"
+msgstr ""
+
+#: ../localization.php:410
+msgid "Confirm"
+msgstr ""
+
+#: ../localization.php:411
+msgid "WAITING PAYMENT"
+msgstr ""
+
+#: ../localization.php:412
+msgid "Welcome back,"
+msgstr ""
+
+#: ../localization.php:414
+msgid "Below your order information"
+msgstr ""
+
+#: ../localization.php:415
+msgid "Thank you! We've received your payment."
+msgstr ""
+
+#: ../localization.php:418
+msgid "Any"
+msgstr ""
+
+#: ../localization.php:419
+msgid "Total Invoices:"
+msgstr ""
+
+#: ../localization.php:420
+msgid "Start date"
+msgstr ""
+
+#: ../localization.php:421
+msgid "Enter start date"
+msgstr ""
+
+#: ../localization.php:422
+msgid "End date"
+msgstr ""
+
+#: ../localization.php:423
+msgid "Enter end date"
+msgstr ""
+
+#: ../localization.php:425
+msgid "Listing"
+msgstr ""
+
+#: ../localization.php:426
+msgid "Package"
+msgstr ""
+
+#: ../localization.php:427
+msgid "One Time"
+msgstr ""
+
+#: ../localization.php:428
+msgid "Recurring"
+msgstr ""
+
+#: ../localization.php:429
+msgid "Reservation Fee"
+msgstr ""
+
+#: ../localization.php:432
+msgid "Paid"
+msgstr ""
+
+#: ../localization.php:433
+msgid "Not Paid"
+msgstr ""
+
+#: ../localization.php:434
+msgid "Order"
+msgstr ""
+
+#: ../localization.php:435
+msgid "Payment Method"
+msgstr ""
+
+#: ../localization.php:437
+msgid "Payment details"
+msgstr ""
+
+#: ../localization.php:438
+msgid "Listing Title"
+msgstr ""
+
+#: ../localization.php:439
+msgid "Billing Type"
+msgstr ""
+
+#: ../localization.php:440
+msgid "Billing For"
+msgstr ""
+
+#: ../localization.php:442
+msgid "Booking Date"
+msgstr ""
+
+#: ../localization.php:445
+msgid "Customer details:"
+msgstr ""
+
+#: ../localization.php:446
+msgid "Name:"
+msgstr ""
+
+#: ../localization.php:450
+msgid "Nearby"
+msgstr ""
+
+#: ../localization.php:451
+msgid "Powered by"
+msgstr ""
+
+#: ../localization.php:455
+msgid "Enjoy and book with confidence."
+msgstr ""
+
+#: ../localization.php:456
+msgid "Leave the ability to add content in this page"
+msgstr ""
+
+#: ../localization.php:457
+msgid "Please act quickly! Rates and availability may subject to change."
+msgstr ""
+
+#: ../localization.php:458
+msgid ""
+"We're sorry, but the dates you are trying to reserve are no longer "
+"available. Please select new stay dates and try again."
+msgstr ""
+
+#: ../localization.php:459
+msgid "Please choose check in date"
+msgstr ""
+
+#: ../localization.php:460
+msgid "Please choose check out date"
+msgstr ""
+
+#: ../localization.php:461
+msgid "The listing you are looking for is not available"
+msgstr ""
+
+#: ../localization.php:462
+msgid "Check out date must be greater then check in date"
+msgstr ""
+
+#: ../localization.php:463
+msgid "Maximum guests allowed are"
+msgstr ""
+
+#: ../localization.php:464
+msgid "Learn More"
+msgstr ""
+
+#: ../localization.php:466
+msgid "Speaks"
+msgstr ""
+
+#: ../localization.php:467 ../template-parts/dashboard/messages/detail.php:223
+#: ../template-parts/dashboard/messages/new.php:70
+msgid "Type your message here..."
+msgstr ""
+
+#: ../localization.php:468
+msgid "Start booking"
+msgstr ""
+
+#: ../localization.php:469
+msgid "Introduce your self to the host"
+msgstr ""
+
+#: ../localization.php:470
+msgid "Rules & Policies"
+msgstr ""
+
+#: ../localization.php:471
+msgid "Cancellation Policy"
+msgstr ""
+
+#: ../localization.php:472
+msgid "Enter your cancellation policy"
+msgstr ""
+
+#: ../localization.php:473
+msgid "Full refund 1 day prior arrival, exceept fees"
+msgstr ""
+
+#: ../localization.php:474
+msgid "Owner rules"
+msgstr ""
+
+#: ../localization.php:475
+msgid "Rental Agreement"
+msgstr ""
+
+#: ../localization.php:476
+msgid "You must review and agree to all rules and policies to continue."
+msgstr ""
+
+#: ../localization.php:477
+msgid "I have read and agree with all rental policies and terms."
+msgstr ""
+
+#: ../localization.php:478
+#: ../template-parts/dashboard/reservation/payment-sidebar.php:3
+#: ../template-parts/dashboard/upgrade-featured.php:89
+#: ../template/dashboard-payment.php:88
+msgid "Payment"
+msgstr ""
+
+#: ../localization.php:479 ../template-parts/dashboard/upgrade-featured.php:46
+#: ../template/dashboard-payment.php:45
+msgid "Select the payment method"
+msgstr ""
+
+#: ../localization.php:480 ../template-parts/dashboard/upgrade-featured.php:120
+#: ../template/dashboard-payment.php:102
+msgid "Process Payment"
+msgstr ""
+
+#: ../localization.php:481 ../template-parts/modal-window-register.php:50
+msgid "Username"
+msgstr ""
+
+#: ../localization.php:482
+msgid "Enter your username"
+msgstr ""
+
+#: ../localization.php:483
+msgid "First name"
+msgstr ""
+
+#: ../localization.php:484
+msgid "Enter your name"
+msgstr ""
+
+#: ../localization.php:485
+msgid "Last name"
+msgstr ""
+
+#: ../localization.php:486
+msgid "Enter your last name"
+msgstr ""
+
+#: ../localization.php:488
+msgid "Enter your email"
+msgstr ""
+
+#: ../localization.php:490
+msgid "Enter your phone"
+msgstr ""
+
+#: ../localization.php:491
+msgid "Bio"
+msgstr ""
+
+#: ../localization.php:492
+msgid "Native Language"
+msgstr ""
+
+#: ../localization.php:493
+msgid "Other Language"
+msgstr ""
+
+#: ../localization.php:494
+msgid "Display name publicly as"
+msgstr ""
+
+#: ../localization.php:499
+msgid "Where to go?"
+msgstr ""
+
+#: ../localization.php:500
+msgid "Arrive"
+msgstr ""
+
+#: ../localization.php:501
+msgid "Depart"
+msgstr ""
+
+#: ../localization.php:502
+msgid "Arrive & Depart"
+msgstr ""
+
+#: ../localization.php:505
+msgid "Adults"
+msgstr ""
+
+#: ../localization.php:507
+msgid "Apply"
+msgstr ""
+
+#: ../localization.php:511
+msgid "Advanced"
+msgstr ""
+
+#: ../localization.php:513
+msgid "n. of bedrooms"
+msgstr ""
+
+#: ../localization.php:514
+msgid "n. of rooms"
+msgstr ""
+
+#: ../localization.php:516
+msgid "Min."
+msgstr ""
+
+#: ../localization.php:517
+msgid "Max."
+msgstr ""
+
+#: ../localization.php:521
+msgid "House Rules"
+msgstr ""
+
+#: ../localization.php:522
+msgid "Host Language"
+msgstr ""
+
+#: ../localization.php:523
+msgid "More"
+msgstr ""
+
+#: ../localization.php:524
+msgid "Reset"
+msgstr ""
+
+#: ../localization.php:525
+msgid "Apply Filters"
+msgstr ""
+
+#: ../localization.php:530
+msgid "Dashboard"
+msgstr ""
+
+#: ../localization.php:531
+msgid "Profile"
+msgstr ""
+
+#: ../localization.php:532
+msgid "My Listings"
+msgstr ""
+
+#: ../localization.php:535
+msgid "Favorites"
+msgstr ""
+
+#: ../localization.php:536
+msgid "Invoices"
+msgstr ""
+
+#: ../localization.php:537
+msgid "Messages"
+msgstr ""
+
+#: ../localization.php:538
+msgid "Saved Searches"
+msgstr ""
+
+#: ../localization.php:539
+msgid "Log out"
+msgstr ""
+
+#: ../single-listing/about.php:32
+msgid "type_icon"
+msgstr ""
+
+#: ../single-listing/about.php:33
+msgid "acco_icon"
+msgstr ""
+
+#: ../single-listing/about.php:34
+msgid "bedroom_icon"
+msgstr ""
+
+#: ../single-listing/about.php:35
+msgid "bathroom_icon"
+msgstr ""
+
+#: ../single-listing/accomodation.php:27
+msgid "icon"
+msgstr ""
+
+#: ../single-listing/booking/overlay-booking.php:31
+#: ../single-listing/booking/overlay-booking.php:69
+#: ../single-listing/booking/sidebar-booking-module.php:68
+msgid "Request to Book"
+msgstr ""
+
+#: ../single-listing/booking/overlay-booking.php:36
+msgid "Request to book"
+msgstr ""
+
+#: ../single-listing/booking/overlay-booking.php:70
+#: ../single-listing/booking/sidebar-booking-module.php:69
+msgid "You won’t be charged yet"
+msgstr ""
+
+#: ../single-listing/reviews.php:39
+msgid "Rating (Low to High)"
+msgstr ""
+
+#: ../single-listing/reviews.php:40
+msgid "Rating (High to Low)"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:23
+msgid "Active Life"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:24
+msgid "Arts & Entertainment"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:25
+msgid "Automotive"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:26
+msgid "Beauty & Spas"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:27
+msgid "Education"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:28
+msgid "Event Planning & Services"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:29
+msgid "Financial Services"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:30
+msgid "Food"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:31
+msgid "Health & Medical"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:32
+msgid "Home Services "
+msgstr ""
+
+#: ../single-listing/what-nearby.php:33
+msgid "Hotels & Travel"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:34
+msgid "Local Flavor"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:35
+msgid "Local Services"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:36
+msgid "Mass Media"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:37
+msgid "Nightlife"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:39
+msgid "Professional Services"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:40
+msgid "Public Services & Government"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:41
+msgid "Real Estate"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:42
+msgid "Religious Organizations"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:43
+msgid "Restaurants"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:44
+msgid "Shopping"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:45
+msgid "Transportation"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:78
+msgid "Please supply your API key"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:79
+msgid "Click Here"
+msgstr ""
+
+#: ../single-listing/what-nearby.php:142
+msgid "reviews"
+msgstr ""
+
+#: ../single-post/post-nav.php:16
+msgid "Prev Post"
+msgstr ""
+
+#: ../single-post/post-nav.php:45
+msgid "Next post"
+msgstr ""
+
+#: ../single-post/related-posts.php:19
+msgid "Related posts"
+msgstr ""
+
+#: ../single-post/tags.php:3
+msgid "Tags:"
+msgstr ""
+
+#: ../template-parts/dashboard/edit-listing/modal-calendar.php:14
+msgid "Start Date"
+msgstr ""
+
+#: ../template-parts/dashboard/edit-listing/modal-calendar.php:18
+msgid "End Date"
+msgstr ""
+
+#: ../template-parts/dashboard/edit-listing/modal-calendar.php:22
+#: ../template-parts/dashboard/reservation/detail.php:179
+msgid "Notes"
+msgstr ""
+
+#: ../template-parts/dashboard/edit-listing/submit-form.php:202
+msgid "You are not logged in or This listing does not belong to you."
+msgstr ""
+
+#: ../template-parts/dashboard/edit-listing/submit-form.php:206
+msgid "This is not a valid request"
+msgstr ""
+
+#: ../template-parts/dashboard/listing-item.php:27
+msgid "Published"
+msgstr ""
+
+#: ../template-parts/dashboard/messages/detail.php:73
+#: ../template-parts/dashboard/messages/new.php:40
+msgid "The message has been sent."
+msgstr ""
+
+#: ../template-parts/dashboard/messages/detail.php:80
+#: ../template-parts/dashboard/messages/new.php:47
+msgid "Oopps something getting wrong, please try again!"
+msgstr ""
+
+#: ../template-parts/dashboard/messages/detail.php:95
+msgid "on"
+msgstr ""
+
+#: ../template-parts/dashboard/messages/detail.php:99
+#: ../template-parts/dashboard/messages/detail.php:101
+msgid "Status:"
+msgstr ""
+
+#: ../template-parts/dashboard/messages/detail.php:99
+msgid "Online"
+msgstr ""
+
+#: ../template-parts/dashboard/messages/detail.php:101
+msgid "Offline"
+msgstr ""
+
+#: ../template-parts/dashboard/messages/detail.php:123
+msgid "Me"
+msgstr ""
+
+#: ../template-parts/dashboard/messages/detail.php:215
+msgid "Reply"
+msgstr ""
+
+#: ../template-parts/dashboard/messages/detail.php:241
+#: ../template-parts/dashboard/messages/new.php:88
+msgid "Send"
+msgstr ""
+
+#: ../template-parts/dashboard/messages/new.php:61
+msgid "New Message"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/address.php:21
+msgid "Street Address"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/address.php:22
+msgid "Enter street address"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/address.php:27
+msgid "Apt, Suite"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/address.php:34
+msgid "Enter your city"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/address.php:40
+msgid "Enter your state"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/address.php:46
+msgid "Enter zip code"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/address.php:51
+#: ../template-parts/dashboard/profile/address.php:52
+msgid "Neighborhood"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/address.php:58
+msgid "country"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/contact.php:13
+msgid "Emergency Contact"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/contact.php:21
+msgid "Contact Name"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/contact.php:22
+msgid "Enter Name"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/contact.php:27
+msgid "Relationship"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/contact.php:28
+msgid "Enter Relationship"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/contact.php:34
+msgid "Enter contact email address"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/contact.php:40
+msgid "Enter the phone number"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/information.php:107
+msgid "GDPR Agreement *"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/password.php:4
+msgid "Change Password"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/password.php:12
+msgid "New Password"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/password.php:13
+msgid "Enter new password"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/password.php:18
+msgid "Confirm Password"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/password.php:19
+msgid "Confirm new password"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/password.php:24
+msgid "Update Password"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/photo.php:35
+msgid "Choose an image from your computer"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/photo.php:36
+msgid "Minimum size 100 x 100 px"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/photo.php:37
+msgid "Browse"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/progress.php:7
+#: ../template-parts/dashboard/profile/status.php:15
+msgid "Profile Completed"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/progress.php:12
+#: ../template-parts/dashboard/profile/status.php:23
+msgid "Profile Picture"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/progress.php:14
+#: ../template-parts/dashboard/profile/progress.php:23
+#: ../template-parts/dashboard/profile/status.php:25
+#: ../template-parts/dashboard/profile/status.php:34
+#: ../template-parts/search/search-calendar.php:172
+msgid "Done"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/progress.php:31
+msgid "Progress"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/social.php:19
+msgid "Social Media"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/social.php:28
+msgid "Facebook URL"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/social.php:34
+msgid "Twitter URL"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/social.php:40
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/social.php:46
+msgid "Google Plus Url"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/social.php:52
+msgid "Instagram URL"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/social.php:58
+msgid "Pinterest Url"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/social.php:64
+msgid "Youtube Url"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/social.php:70
+msgid "Vimeo Url"
+msgstr ""
+
+#: ../template-parts/dashboard/profile/verification.php:7
+msgid "Verify Your Information"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/cancel-form.php:4
+#: ../template-parts/dashboard/reservation/cancelled.php:4
+msgid "Cancel Reason"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/decline-form.php:4
+#: ../template-parts/dashboard/reservation/declined.php:4
+msgid "Decline Reason"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/detail.php:132
+#: ../template/dashboard-messages.php:60
+msgid "From"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/message.php:19
+msgid "Send Message to"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/message.php:34
+msgid "Type your message..."
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:11
+msgid "Leave a Review"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:19
+msgid "Select your rating"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:20
+msgid "1 Star - Poor"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:21
+msgid "2 Star -  Fair"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:22
+msgid "3 Star - Average"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:23
+msgid "4 Star - Good"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:24
+msgid "5 Star - Excellent"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:31
+msgid "Type your review here..."
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:40
+msgid "Update Review"
+msgstr ""
+
+#: ../template-parts/dashboard/reservation/review-form.php:43
+msgid "Submit Your Review"
+msgstr ""
+
+#: ../template-parts/dashboard/upgrade-featured.php:59
+#: ../template/dashboard-payment.php:58
+#: ../template/template-instance-booking.php:298
+msgid "Paypal"
+msgstr ""
+
+#: ../template-parts/dashboard/upgrade-featured.php:72
+#: ../template/dashboard-payment.php:71
+#: ../template/template-instance-booking.php:311
+msgid "Stripe"
+msgstr ""
+
+#: ../template-parts/listing/compare.php:11
+msgid "Compare listings"
+msgstr ""
+
+#: ../template-parts/listing/compare.php:19
+msgid "Thumb"
+msgstr ""
+
+#: ../template-parts/listing/listing-none.php:1
+msgid "Sorry no results found"
+msgstr ""
+
+#: ../template-parts/listing/sort-tool.php:30
+#: ../template-parts/listing/sort-tool_2.php:29
+msgid "Featured First"
+msgstr ""
+
+#: ../template-parts/map-controls.php:15
+msgid "Google Map Search"
+msgstr ""
+
+#: ../template-parts/map-controls.php:19
+msgid "Roadmap"
+msgstr ""
+
+#: ../template-parts/map-controls.php:20
+msgid "Satelite"
+msgstr ""
+
+#: ../template-parts/map-controls.php:21
+msgid "Hybrid"
+msgstr ""
+
+#: ../template-parts/map-controls.php:22
+msgid "Terrain"
+msgstr ""
+
+#: ../template-parts/map-controls.php:30
+msgid "Fullscreen"
+msgstr ""
+
+#: ../template-parts/modal-window-forgot-password.php:6
+msgid "Forgot Password"
+msgstr ""
+
+#: ../template-parts/modal-window-forgot-password.php:10
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: ../template-parts/modal-window-forgot-password.php:13
+msgid "Enter your username or email"
+msgstr ""
+
+#: ../template-parts/modal-window-login.php:31
+#: ../template-parts/modal-window-register.php:37
+msgid "Login with Facebook"
+msgstr ""
+
+#: ../template-parts/modal-window-login.php:35
+#: ../template-parts/modal-window-register.php:41
+msgid "Login with Google"
+msgstr ""
+
+#: ../template-parts/modal-window-login.php:41
+msgid "Log in"
+msgstr ""
+
+#: ../template-parts/modal-window-login.php:46
+msgid "Username or Email"
+msgstr ""
+
+#: ../template-parts/modal-window-login.php:49
+#: ../template-parts/modal-window-register.php:58
+msgid "Password"
+msgstr ""
+
+#: ../template-parts/modal-window-login.php:60
+msgid "Remember me"
+msgstr ""
+
+#: ../template-parts/modal-window-login.php:64
+msgid "Forgot passoword?"
+msgstr ""
+
+#: ../template-parts/modal-window-login.php:69
+#: ../template-parts/modal-window-register.php:98
+msgid "Log In"
+msgstr ""
+
+#: ../template-parts/modal-window-login.php:72
+msgid "Don't you have an account?"
+msgstr ""
+
+#: ../template-parts/modal-window-register.php:46
+msgid "Register with your email"
+msgstr ""
+
+#: ../template-parts/modal-window-register.php:61
+msgid "Repeat Password"
+msgstr ""
+
+#: ../template-parts/modal-window-register.php:81
+#, php-format
+msgid "I agree with your <a href=\"%s\">Terms & Conditions</a>"
+msgstr ""
+
+#: ../template-parts/modal-window-register.php:98
+msgid "Do you already have an account?"
+msgstr ""
+
+#: ../template-parts/modal-window-register.php:103
+msgid "User registration is disabled in this website."
+msgstr ""
+
+#: ../template-parts/page-title.php:19
+msgid "F Y"
+msgstr ""
+
+#: ../template-parts/page-title.php:22
+msgid "Y"
+msgstr ""
+
+#: ../template-parts/page-title.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: ../template-parts/search/languages.php:12
+#: ../template-parts/search/languages.php:17
+#: ../template-parts/search/languages.php:22
+#: ../template-parts/search/languages.php:27
+#: ../template-parts/search/languages.php:32
+#: ../template-parts/search/rules.php:12 ../template-parts/search/rules.php:17
+#: ../template-parts/search/rules.php:22 ../template-parts/search/rules.php:27
+#: ../template-parts/search/rules.php:32
+msgid "Option Name"
+msgstr ""
+
+#: ../template-parts/search/search-calendar.php:164
+msgid "Clear"
+msgstr ""
+
+#: ../template/dashboard-invoices.php:145
+msgid "Go back"
+msgstr ""
+
+#: ../template/dashboard-listing-submitted.php:82
+msgid "Update calendar"
+msgstr ""
+
+#: ../template/dashboard-listing-submitted.php:90
+msgid "Setup Custom Prices"
+msgstr ""
+
+#: ../template/dashboard-listings.php:67
+msgid "Search listing"
+msgstr ""
+
+#: ../template/dashboard-messages.php:70
+msgid "You don’t have any message at this moment."
+msgstr ""
+
+#: ../template/dashboard-submission.php:93
+msgid "<strong>Error!</strong> Please fill out the required fields."
+msgstr ""
+
+#: ../template/dashboard-submission.php:97
+msgid "<strong>Error!</strong> Upload at least one image."
+msgstr ""
+
+#: ../template/dashboard.php:34
+msgid "Payment Received"
+msgstr ""
+
+#: ../template/template-instance-booking.php:211
+#, php-format
+msgid ""
+"By clicking Continue you agree to our <a href=\"%s\">Terms & Conditions</a> "
+"and <a href=\"%s\">Privacy Policy</a>"
+msgstr ""

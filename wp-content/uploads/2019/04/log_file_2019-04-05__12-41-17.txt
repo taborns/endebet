@@ -1,0 +1,69 @@
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 5000
+Files info:
+Site URL = http://endebet.com/endebet
+Data file = /Users/mac/Sites/endebet/wp-content/uploads/2019/04/content-1.xml
+Widget file = /Users/mac/Sites/endebet/wp-content/uploads/2019/04/widgets-1.json
+Customizer file = /Users/mac/Sites/endebet/wp-content/uploads/2019/04/news-gallery2-1.zip
+Redux files:
+test -> /Users/mac/Sites/endebet/wp-content/uploads/2019/04/redux-1.json 
+
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Homey: Latest Posts - Latest Posts - Widget already exists
+Search - Search - Widget already exists
+Homey: Latest Comments - Latest Comments - Widget already exists
+Homey: Image Banner 300x250 - Image Ad - Widget already exists
+
+Page Sidebar : 
+
+Navigation Menu - Company - Widget already exists
+Navigation Menu - Help - Widget already exists
+
+Listings Sidebar : 
+
+mc4wp_form_widget - Newsletter Sign Up! - Site does not support widget
+Homey: Listing list - Featured - Widget already exists
+Homey: Taxonomies Cards - Explore - Widget already exists
+Homey: Listing Card - Slider - Widget already exists
+Homey: Reviews - Latest Reviews - Widget already exists
+Homey: Latest Posts - Latest Posts - Widget already exists
+Homey: Image Banner 300x250 - No Title - Widget already exists
+
+Footer Area 1 : 
+
+Homey: About Site - No Title - Widget already exists
+
+Footer Area 2 : 
+
+Homey: Taxonomies List - Explore - Widget already exists
+
+Footer Area 3 : 
+
+Navigation Menu - Company - Widget already exists
+
+Footer Area 4 : 
+
+Homey: Contact Us - Contact Us - Widget already exists
+
+
+
+---Importing Redux settings---
+The Redux option name: test, was not found in this WP site, so it was not imported!
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+
